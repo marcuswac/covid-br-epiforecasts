@@ -16,49 +16,11 @@ navbar:
   right:
     - text: "About"
       href: index.html
-    - text: "Global"
-      href: posts/global/index.html
-    - text: 'National'
+    - text: "Brasil"
+      href: posts/national/brazil/index.html
+    - text: "Cities"
       menu:
-       - text: 'Africa'
-         href: reports.html#Africa
-       - text: 'Americas'
-         href: reports.html#Americas
-       - text: 'Oceania'
-         href: reports.html#Oceania
-       - text: 'Europe'
-         href: reports.html#Europe
-       - text: 'Asia'
-         href: reports.html#Asia
-    - text: "Subnational"
-      menu:
-       - text: "Countries with subnational estimates"
-       - text: "Brazil"
-         href: posts/national/brazil/index.html
-       - text: "Canada"
-         href: posts/national/canada/index.html
-       - text: "Colombia"
-         href: posts/national/colombia/index.html
-       - text: "India"
-         href: posts/national/india/index.html
-       - text: "Italy"
-         href: posts/national/italy/index.html
-       - text: "Germany"
-         href: posts/national/germany/index.html
-       - text: "Russia"
-         href: posts/national/russia/index.html
-       - text: "United Kingdom"
-         href: posts/national/united-kingdom/index.html
-       - text: "United States of America"
-         href: posts/national/united-states/index.html
-    - text: "Details"
-      menu:
-       - text: "Methods"
-         href: methods.html
-       - text: "Funding"
-         href: funding.html
-       - text: "News"
-         href: news.html
+       - text: "States with municipality estimates"
     - icon: fab fa-github
       href: https://github.com/epiforecasts/covid
     - icon: fa fa-rss
