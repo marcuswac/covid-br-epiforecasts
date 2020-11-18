@@ -17,5 +17,5 @@ echo ".Rproj.user" > .gitignore
 git add --all
 git commit -m "deploy site"
 git push -f origin gh-pages:gh-pages
-git checkout master
+git checkout main 
 git branch -D gh-pages
