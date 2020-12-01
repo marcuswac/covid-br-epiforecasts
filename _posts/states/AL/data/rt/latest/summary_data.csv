@@ -1,0 +1,27 @@
+region,estimate,median,mean,sd,lower_90,lower_50,lower_20,upper_20,upper_50,upper_90,metric,Expected change in daily cases
+Maceió,42 (5 -- 339),42,102,275,5,19,32,56,93,339,New confirmed cases by infection date,Unsure
+Arapiraca,41 (9 -- 258),41,81,188,9,24,33,50,77,258,New confirmed cases by infection date,Unsure
+Santana do Ipanema,13 (2 -- 85),13,28,86,2,7,10,17,27,85,New confirmed cases by infection date,Unsure
+Lagoa da Canoa,7 (0 -- 392),7,319,5105,0,1,4,12,36,392,New confirmed cases by infection date,Unsure
+Marechal Deodoro,5 (1 -- 44),5,13,29,1,3,4,7,11,44,New confirmed cases by infection date,Unsure
+Coruripe,4 (1 -- 19),4,7,19,1,3,3,5,7,19,New confirmed cases by infection date,Unsure
+Palmeira dos Índios,3 (1 -- 13),3,6,64,1,2,2,3,4,13,New confirmed cases by infection date,Unsure
+Delmiro Gouveia,2 (0 -- 14),2,4,12,0,1,1,3,4,14,New confirmed cases by infection date,Unsure
+Lagoa da Canoa,1.7 (0.5 -- 6),1.7,2.3,2.1,0.5,1.1,1.5,2.1,2.9,6,Effective reproduction no.,Unsure
+Santana do Ipanema,1.3 (0.7 -- 2.2),1.3,1.3,0.5,0.7,1.1,1.2,1.4,1.5,2.2,Effective reproduction no.,Unsure
+Arapiraca,1.1 (0.6 -- 2.1),1.1,1.2,0.5,0.6,1,1,1.2,1.4,2.1,Effective reproduction no.,Unsure
+Delmiro Gouveia,1.1 (0.5 -- 1.8),1.1,1.1,0.4,0.5,0.9,1,1.1,1.3,1.8,Effective reproduction no.,Unsure
+Coruripe,1 (0.7 -- 1.4),1,1,0.3,0.7,0.9,1,1,1.1,1.4,Effective reproduction no.,Unsure
+Joaquim Gomes,1 (0 -- 7),1,2,16,0,0,0,1,2,7,New confirmed cases by infection date,Unsure
+Joaquim Gomes,1 (0.5 -- 1.5),1,1,0.4,0.5,0.9,0.9,1,1,1.5,Effective reproduction no.,Unsure
+Maceió,1 (0.4 -- 2),1,1.1,0.5,0.4,0.8,0.9,1.1,1.3,2,Effective reproduction no.,Unsure
+Marechal Deodoro,1 (0.6 -- 1.8),1,1.1,0.4,0.6,0.9,1,1.1,1.2,1.8,Effective reproduction no.,Unsure
+Matriz de Camaragibe,1 (0 -- 14),1,4,15,0,0,0,1,2,14,New confirmed cases by infection date,Unsure
+Matriz de Camaragibe,1 (0.5 -- 1.9),1,1.1,0.5,0.5,0.8,1,1.1,1.2,1.9,Effective reproduction no.,Unsure
+Palmeira dos Índios,1 (0.7 -- 1.4),1,1,0.2,0.7,0.9,1,1,1,1.4,Effective reproduction no.,Unsure
+Penedo,1 (0 -- 6),1,2,11,0,0,1,1,2,6,New confirmed cases by infection date,Unsure
+Pilar,1 (0 -- 10),1,3,10,0,0,1,1,2,10,New confirmed cases by infection date,Unsure
+Pilar,1 (0.5 -- 1.6),1,1,0.4,0.5,0.9,0.9,1.1,1.2,1.6,Effective reproduction no.,Unsure
+Girau do Ponciano,0.9 (0.5 -- 1.5),0.9,0.9,0.3,0.5,0.8,0.9,0.9,1,1.5,Effective reproduction no.,Unsure
+Penedo,0.9 (0.4 -- 1.3),0.9,0.9,0.3,0.4,0.7,0.8,0.9,1,1.3,Effective reproduction no.,Unsure
+Girau do Ponciano,0 (0 -- 3),0,1,5,0,0,0,0,1,3,New confirmed cases by infection date,Unsure

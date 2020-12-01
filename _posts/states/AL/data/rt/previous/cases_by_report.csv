@@ -1,0 +1,442 @@
+region,date,strat,type,median,mean,sd,lower_90,lower_50,lower_20,upper_20,upper_50,upper_90
+Marechal Deodoro,2020-10-12,,estimate,0,1,2,0,0,0,1,1,4
+Marechal Deodoro,2020-10-19,,estimate,0,1,2,0,0,0,1,1,4
+Marechal Deodoro,2020-10-26,,estimate,0,1,2,0,0,0,1,1,4
+Marechal Deodoro,2020-11-02,,estimate,0,1,2,0,0,0,1,1,4
+Penedo,2020-11-14,,estimate based on partial data,0,1,2,0,0,0,1,1,5
+Santana do Ipanema,2020-10-23,,estimate,0,1,2,0,0,0,1,2,4
+Penedo,2020-11-07,,estimate,0,1,3,0,0,0,1,2,6
+Penedo,2020-11-21,,forecast,0,1,7,0,0,0,0,1,5
+Penedo,2020-11-17,,estimate based on partial data,0,2,4,0,0,0,1,2,7
+Penedo,2020-11-23,,forecast,0,2,5,0,0,0,1,2,8
+Penedo,2020-11-22,,forecast,0,2,16,0,0,0,1,2,9
+Penedo,2020-11-24,,forecast,0,2,26,0,0,0,1,2,7
+Santana do Ipanema,2020-10-19,,estimate,1,1,1,0,0,0,1,1,4
+Santana do Ipanema,2020-10-26,,estimate,1,1,2,0,0,0,1,1,4
+Santana do Ipanema,2020-10-12,,estimate,1,1,2,0,0,0,1,2,4
+Santana do Ipanema,2020-10-16,,estimate,1,1,2,0,0,0,1,2,4
+Santana do Ipanema,2020-10-30,,estimate,1,1,2,0,0,0,1,2,4
+Marechal Deodoro,2020-10-05,,estimate,1,1,2,0,0,0,1,2,5
+Marechal Deodoro,2020-11-09,,estimate based on partial data,1,1,2,0,0,0,1,2,5
+Palmeira dos Índios,2020-10-19,,estimate,1,1,2,0,0,0,1,2,5
+Palmeira dos Índios,2020-10-26,,estimate,1,1,2,0,0,0,1,2,5
+Palmeira dos Índios,2020-11-02,,estimate,1,1,2,0,0,0,1,2,5
+Palmeira dos Índios,2020-11-09,,estimate based on partial data,1,1,2,0,0,0,1,2,5
+Palmeira dos Índios,2020-11-16,,estimate based on partial data,1,1,2,0,0,0,1,2,5
+Santana do Ipanema,2020-11-02,,estimate,1,1,2,0,0,0,1,2,5
+Marechal Deodoro,2020-09-28,,estimate,1,1,2,0,0,0,1,2,6
+Santana do Ipanema,2020-10-09,,estimate,1,2,2,0,0,0,1,2,5
+Palmeira dos Índios,2020-10-12,,estimate,1,2,2,0,0,1,1,2,5
+Santana do Ipanema,2020-10-05,,estimate,1,2,2,0,0,1,1,2,6
+Santana do Ipanema,2020-10-20,,estimate,1,2,2,0,0,1,1,2,6
+Santana do Ipanema,2020-10-25,,estimate,1,2,2,0,0,1,1,2,6
+Santana do Ipanema,2020-10-27,,estimate,1,2,2,0,0,1,1,2,6
+Santana do Ipanema,2020-10-13,,estimate,1,2,2,0,0,1,1,3,6
+Palmeira dos Índios,2020-10-05,,estimate,1,2,2,0,0,1,1,3,7
+Santana do Ipanema,2020-10-18,,estimate,1,2,2,0,0,1,2,2,6
+Marechal Deodoro,2020-11-16,,estimate based on partial data,1,2,3,0,0,0,1,2,6
+Palmeira dos Índios,2020-11-23,,forecast,1,2,3,0,0,0,1,2,6
+Marechal Deodoro,2020-10-18,,estimate,1,2,3,0,0,0,1,2,7
+Marechal Deodoro,2020-10-25,,estimate,1,2,3,0,0,0,1,2,7
+Penedo,2020-10-31,,estimate,1,2,3,0,0,0,1,2,7
+Penedo,2020-11-10,,estimate based on partial data,1,2,3,0,0,0,1,2,8
+Marechal Deodoro,2020-10-11,,estimate,1,2,3,0,0,1,1,2,7
+Marechal Deodoro,2020-11-01,,estimate,1,2,3,0,0,1,1,3,8
+Palmeira dos Índios,2020-09-28,,estimate,1,2,3,0,0,1,2,3,7
+Santana do Ipanema,2020-10-11,,estimate,1,2,3,0,0,1,2,3,7
+Santana do Ipanema,2020-10-15,,estimate,1,2,3,0,0,1,2,3,7
+Santana do Ipanema,2020-10-22,,estimate,1,2,3,0,0,1,2,3,7
+Santana do Ipanema,2020-11-01,,estimate,1,2,3,0,0,1,2,3,7
+Santana do Ipanema,2020-11-06,,estimate,1,2,3,0,0,1,2,3,7
+Marechal Deodoro,2020-10-04,,estimate,1,2,3,0,0,1,2,3,8
+Santana do Ipanema,2020-10-02,,estimate,1,2,3,0,0,1,2,3,8
+Santana do Ipanema,2020-10-21,,estimate,1,2,3,0,0,1,2,3,8
+Santana do Ipanema,2020-10-24,,estimate,1,2,3,0,0,1,2,3,8
+Santana do Ipanema,2020-10-29,,estimate,1,2,3,0,0,1,2,3,8
+Santana do Ipanema,2020-11-03,,estimate,1,2,3,0,0,1,2,3,9
+Penedo,2020-10-24,,estimate,1,2,4,0,0,0,1,2,8
+Penedo,2020-11-16,,estimate based on partial data,1,2,4,0,0,0,1,2,9
+Penedo,2020-11-12,,estimate based on partial data,1,2,4,0,0,0,1,3,9
+Penedo,2020-11-20,,forecast,1,2,4,0,0,0,1,3,9
+Penedo,2020-11-13,,estimate based on partial data,1,2,4,0,0,0,1,3,10
+Penedo,2020-11-15,,estimate based on partial data,1,2,4,0,0,0,1,3,10
+Penedo,2020-10-17,,estimate,1,2,4,0,0,0,2,3,9
+Marechal Deodoro,2020-11-08,,estimate,1,2,4,0,0,1,2,3,8
+Penedo,2020-11-03,,estimate,1,2,4,0,0,1,2,3,9
+Penedo,2020-11-19,,forecast,1,2,5,0,0,0,1,2,9
+Penedo,2020-11-08,,estimate,1,3,4,0,0,0,2,3,11
+Penedo,2020-10-27,,estimate,1,3,4,0,0,1,2,3,10
+Penedo,2020-11-09,,estimate based on partial data,1,3,4,0,0,1,2,3,10
+Marechal Deodoro,2020-11-15,,estimate based on partial data,1,3,4,0,0,1,2,4,9
+Palmeira dos Índios,2020-11-19,,forecast,1,3,4,0,0,1,2,4,9
+Penedo,2020-10-10,,estimate,1,3,5,0,0,1,2,4,11
+Penedo,2020-11-05,,estimate,1,3,5,0,0,1,2,4,11
+Penedo,2020-11-06,,estimate,1,3,5,0,0,1,2,4,11
+Penedo,2020-11-01,,estimate,1,3,5,0,0,1,2,4,12
+Penedo,2020-10-29,,estimate,1,3,5,0,0,1,2,4,14
+Penedo,2020-11-02,,estimate,1,3,6,0,0,1,2,4,12
+Penedo,2020-09-26,,estimate,1,3,6,0,0,1,2,4,13
+Penedo,2020-10-03,,estimate,1,3,6,0,0,1,2,4,13
+Penedo,2020-10-20,,estimate,1,3,6,0,0,1,2,4,14
+Marechal Deodoro,2020-11-23,,forecast,1,3,12,0,0,0,1,2,10
+Penedo,2020-10-13,,estimate,1,4,6,0,0,1,2,5,14
+Penedo,2020-10-30,,estimate,1,4,6,0,0,1,2,5,15
+Penedo,2020-11-25,,forecast,1,7,98,0,0,1,2,4,17
+Santana do Ipanema,2020-10-17,,estimate,2,2,3,0,0,1,2,3,9
+Santana do Ipanema,2020-11-09,,estimate based on partial data,2,3,3,0,0,1,2,3,9
+Coruripe,2020-10-26,,estimate,2,3,3,0,0,1,2,4,9
+Santana do Ipanema,2020-10-06,,estimate,2,3,3,0,0,1,2,4,9
+Santana do Ipanema,2020-10-14,,estimate,2,3,3,0,0,1,2,4,9
+Santana do Ipanema,2020-10-28,,estimate,2,3,3,0,0,1,2,4,9
+Coruripe,2020-11-16,,estimate based on partial data,2,3,3,0,0,1,2,4,10
+Palmeira dos Índios,2020-10-29,,estimate,2,3,3,0,0,1,2,4,10
+Santana do Ipanema,2020-09-28,,estimate,2,3,3,0,0,1,2,4,10
+Palmeira dos Índios,2020-10-27,,estimate,2,3,3,0,0,1,3,4,9
+Santana do Ipanema,2020-10-08,,estimate,2,3,3,0,1,1,3,4,9
+Coruripe,2020-10-19,,estimate,2,3,3,0,1,1,3,4,10
+Coruripe,2020-11-02,,estimate,2,3,4,0,0,1,2,4,9
+Palmeira dos Índios,2020-10-22,,estimate,2,3,4,0,0,1,2,4,9
+Palmeira dos Índios,2020-11-05,,estimate,2,3,4,0,0,1,2,4,9
+Palmeira dos Índios,2020-11-12,,estimate based on partial data,2,3,4,0,0,1,2,4,9
+Coruripe,2020-10-12,,estimate,2,3,4,0,0,1,2,4,10
+Coruripe,2020-11-09,,estimate based on partial data,2,3,4,0,0,1,2,4,10
+Marechal Deodoro,2020-09-27,,estimate,2,3,4,0,0,1,2,4,10
+Palmeira dos Índios,2020-11-10,,estimate based on partial data,2,3,4,0,0,1,2,4,10
+Palmeira dos Índios,2020-11-17,,estimate based on partial data,2,3,4,0,0,1,2,4,10
+Santana do Ipanema,2020-10-31,,estimate,2,3,4,0,0,1,3,4,10
+Coruripe,2020-10-05,,estimate,2,3,4,0,0,1,3,4,11
+Marechal Deodoro,2020-10-27,,estimate,2,3,4,0,0,1,3,5,12
+Palmeira dos Índios,2020-11-03,,estimate,2,3,4,0,1,1,2,4,10
+Palmeira dos Índios,2020-10-15,,estimate,2,3,4,0,1,1,3,4,10
+Santana do Ipanema,2020-10-04,,estimate,2,3,4,0,1,1,3,4,10
+Santana do Ipanema,2020-11-13,,estimate based on partial data,2,3,4,0,1,1,3,4,11
+Santana do Ipanema,2020-09-25,,estimate,2,3,4,0,1,1,3,5,10
+Palmeira dos Índios,2020-10-20,,estimate,2,3,4,0,1,1,3,5,11
+Santana do Ipanema,2020-10-10,,estimate,2,3,4,0,1,1,3,5,11
+Marechal Deodoro,2020-10-20,,estimate,2,3,5,0,0,1,2,4,12
+Marechal Deodoro,2020-10-13,,estimate,2,3,5,0,0,1,3,5,12
+Palmeira dos Índios,2020-11-24,,forecast,2,3,7,0,0,1,2,4,12
+Palmeira dos Índios,2020-10-08,,estimate,2,4,4,0,1,1,3,5,12
+Palmeira dos Índios,2020-10-13,,estimate,2,4,4,0,1,1,3,5,12
+Santana do Ipanema,2020-11-05,,estimate,2,4,4,0,1,2,3,5,11
+Palmeira dos Índios,2020-11-07,,estimate,2,4,4,0,1,2,3,5,12
+Santana do Ipanema,2020-10-07,,estimate,2,4,4,0,1,2,3,5,12
+Penedo,2020-10-26,,estimate,2,4,5,0,0,1,3,4,14
+Marechal Deodoro,2020-11-03,,estimate,2,4,5,0,0,1,3,5,13
+Marechal Deodoro,2020-10-06,,estimate,2,4,5,0,1,1,3,5,12
+Coruripe,2020-09-28,,estimate,2,4,5,0,1,1,3,5,13
+Marechal Deodoro,2020-10-22,,estimate,2,4,5,0,1,1,3,5,13
+Marechal Deodoro,2020-10-15,,estimate,2,4,5,0,1,1,3,5,15
+Palmeira dos Índios,2020-11-14,,estimate based on partial data,2,4,5,0,1,2,3,5,12
+Santana do Ipanema,2020-11-08,,estimate,2,4,5,0,1,2,3,5,12
+Palmeira dos Índios,2020-10-31,,estimate,2,4,5,0,1,2,3,5,13
+Palmeira dos Índios,2020-11-08,,estimate,2,4,5,0,1,2,3,5,13
+Palmeira dos Índios,2020-11-15,,estimate based on partial data,2,4,5,0,1,2,3,6,13
+Marechal Deodoro,2020-10-21,,estimate,2,4,5,0,1,2,3,6,14
+Santana do Ipanema,2020-11-04,,estimate,2,4,5,0,1,2,4,5,13
+Palmeira dos Índios,2020-10-01,,estimate,2,4,5,0,1,2,4,6,13
+Penedo,2020-10-25,,estimate,2,4,6,0,0,1,2,5,14
+Marechal Deodoro,2020-10-14,,estimate,2,4,6,0,1,2,3,6,15
+Marechal Deodoro,2020-11-10,,estimate based on partial data,2,4,6,0,1,2,4,6,15
+Penedo,2020-10-22,,estimate,2,4,7,0,0,1,3,5,15
+Penedo,2020-10-23,,estimate,2,4,7,0,0,1,3,5,17
+Penedo,2020-10-18,,estimate,2,4,7,0,0,1,3,6,17
+Palmeira dos Índios,2020-11-21,,forecast,2,4,7,0,1,1,3,5,14
+Penedo,2020-11-18,,estimate based on partial data,2,4,8,0,0,1,3,5,18
+Coruripe,2020-11-23,,forecast,2,4,10,0,0,1,2,4,13
+Penedo,2020-10-19,,estimate,2,5,7,0,0,1,3,6,18
+Penedo,2020-10-06,,estimate,2,5,8,0,0,1,3,5,19
+Penedo,2020-10-12,,estimate,2,5,8,0,0,1,3,6,19
+Penedo,2020-11-11,,estimate based on partial data,2,5,8,0,0,1,3,6,19
+Penedo,2020-10-16,,estimate,2,5,8,0,0,1,3,6,21
+Penedo,2020-10-11,,estimate,2,5,8,0,0,1,4,7,20
+Palmeira dos Índios,2020-11-22,,forecast,2,5,8,0,1,2,3,6,17
+Penedo,2020-09-29,,estimate,2,5,9,0,0,1,3,6,20
+Penedo,2020-10-15,,estimate,2,5,9,0,0,1,3,6,20
+Marechal Deodoro,2020-11-22,,forecast,2,5,22,0,0,1,2,4,17
+Penedo,2020-10-04,,estimate,2,6,9,0,0,2,4,7,22
+Penedo,2020-10-09,,estimate,2,6,13,0,0,1,4,7,23
+Santana do Ipanema,2020-09-29,,estimate,3,4,4,0,1,2,4,5,12
+Palmeira dos Índios,2020-10-24,,estimate,3,4,5,0,1,2,3,5,13
+Santana do Ipanema,2020-11-10,,estimate based on partial data,3,4,5,0,1,2,3,5,13
+Palmeira dos Índios,2020-10-06,,estimate,3,4,5,0,1,2,3,6,14
+Coruripe,2020-11-01,,estimate,3,4,5,0,1,2,4,6,13
+Palmeira dos Índios,2020-11-01,,estimate,3,4,5,0,1,2,4,6,13
+Coruripe,2020-10-11,,estimate,3,4,5,0,1,2,4,6,14
+Coruripe,2020-10-18,,estimate,3,4,5,0,1,2,4,6,14
+Marechal Deodoro,2020-10-29,,estimate,3,4,5,0,1,2,4,6,14
+Palmeira dos Índios,2020-10-17,,estimate,3,4,5,0,1,2,4,6,14
+Palmeira dos Índios,2020-10-25,,estimate,3,4,5,0,1,2,4,6,14
+Santana do Ipanema,2020-10-01,,estimate,3,4,5,0,1,2,4,6,14
+Coruripe,2020-10-25,,estimate,3,4,5,0,1,2,4,6,15
+Coruripe,2020-11-08,,estimate,3,4,5,0,1,2,4,6,15
+Palmeira dos Índios,2020-09-29,,estimate,3,4,5,0,1,2,4,6,15
+Coruripe,2020-11-15,,estimate based on partial data,3,4,6,0,1,2,4,6,15
+Santana do Ipanema,2020-10-03,,estimate,3,5,5,0,1,2,4,6,14
+Palmeira dos Índios,2020-09-24,,estimate,3,5,5,0,1,2,4,6,15
+Palmeira dos Índios,2020-10-18,,estimate,3,5,5,0,1,2,4,6,15
+Palmeira dos Índios,2020-10-11,,estimate,3,5,5,0,1,2,4,7,15
+Palmeira dos Índios,2020-10-10,,estimate,3,5,5,0,1,2,4,7,16
+Coruripe,2020-10-04,,estimate,3,5,6,0,1,2,4,6,15
+Marechal Deodoro,2020-10-28,,estimate,3,5,6,0,1,2,4,6,15
+Santana do Ipanema,2020-11-07,,estimate,3,5,6,0,1,2,4,6,15
+Marechal Deodoro,2020-10-08,,estimate,3,5,6,0,1,2,4,6,16
+Santana do Ipanema,2020-11-16,,estimate based on partial data,3,5,6,0,1,2,4,6,16
+Coruripe,2020-10-27,,estimate,3,5,6,0,1,2,4,7,15
+Coruripe,2020-10-20,,estimate,3,5,6,0,1,2,4,7,16
+Coruripe,2020-11-04,,estimate,3,5,6,0,1,2,4,7,16
+Coruripe,2020-11-06,,estimate,3,5,6,0,1,2,4,7,16
+Santana do Ipanema,2020-09-27,,estimate,3,5,6,0,1,2,4,7,16
+Coruripe,2020-10-06,,estimate,3,5,6,0,1,2,4,7,17
+Coruripe,2020-10-14,,estimate,3,5,6,0,1,2,4,7,17
+Coruripe,2020-10-16,,estimate,3,5,6,0,1,2,4,7,17
+Coruripe,2020-10-23,,estimate,3,5,6,0,1,2,4,7,17
+Coruripe,2020-10-28,,estimate,3,5,6,0,1,2,4,7,17
+Coruripe,2020-10-30,,estimate,3,5,6,0,1,2,4,7,17
+Coruripe,2020-11-03,,estimate,3,5,6,0,1,2,4,7,17
+Marechal Deodoro,2020-09-29,,estimate,3,5,6,0,1,2,4,7,17
+Coruripe,2020-10-13,,estimate,3,5,6,0,1,2,5,7,16
+Coruripe,2020-09-27,,estimate,3,5,6,0,1,2,5,7,17
+Coruripe,2020-10-09,,estimate,3,5,6,0,1,2,5,7,17
+Coruripe,2020-10-21,,estimate,3,5,6,0,1,2,5,7,17
+Coruripe,2020-10-31,,estimate,3,5,6,0,1,2,5,7,17
+Coruripe,2020-11-11,,estimate based on partial data,3,5,6,0,1,2,5,7,17
+Coruripe,2020-11-10,,estimate based on partial data,3,5,7,0,1,2,4,7,17
+Marechal Deodoro,2020-10-16,,estimate,3,5,7,0,1,2,4,7,17
+Marechal Deodoro,2020-10-23,,estimate,3,5,7,0,1,2,4,7,17
+Marechal Deodoro,2020-11-04,,estimate,3,5,7,0,1,2,4,7,17
+Marechal Deodoro,2020-11-05,,estimate,3,5,7,0,1,2,4,7,17
+Coruripe,2020-11-07,,estimate,3,5,7,0,1,2,5,7,17
+Coruripe,2020-10-17,,estimate,3,5,7,0,1,2,5,7,18
+Coruripe,2020-11-22,,forecast,3,5,12,0,1,2,4,6,18
+Coruripe,2020-11-12,,estimate based on partial data,3,6,7,0,1,2,5,8,19
+Coruripe,2020-11-14,,estimate based on partial data,3,6,7,0,1,2,5,8,19
+Coruripe,2020-11-18,,estimate based on partial data,3,6,7,0,1,2,5,8,19
+Marechal Deodoro,2020-10-01,,estimate,3,6,7,0,1,2,5,8,20
+Marechal Deodoro,2020-10-17,,estimate,3,6,7,0,1,2,5,8,20
+Marechal Deodoro,2020-10-30,,estimate,3,6,7,0,1,2,5,8,20
+Coruripe,2020-11-17,,estimate based on partial data,3,6,8,0,1,2,4,7,19
+Marechal Deodoro,2020-11-17,,estimate based on partial data,3,6,8,0,1,2,4,7,20
+Marechal Deodoro,2020-10-07,,estimate,3,6,8,0,1,2,4,8,18
+Coruripe,2020-11-13,,estimate based on partial data,3,6,8,0,1,2,5,7,18
+Marechal Deodoro,2020-10-24,,estimate,3,6,8,0,1,2,5,8,20
+Marechal Deodoro,2020-11-11,,estimate based on partial data,3,6,8,0,1,2,5,8,20
+Marechal Deodoro,2020-11-12,,estimate based on partial data,3,6,8,0,1,2,5,8,20
+Penedo,2020-11-04,,estimate,3,6,9,0,0,2,4,8,22
+Penedo,2020-10-05,,estimate,3,6,9,0,1,2,4,7,25
+Coruripe,2020-11-20,,forecast,3,6,9,0,1,2,5,7,21
+Penedo,2020-09-27,,estimate,3,6,9,0,1,2,5,8,24
+Penedo,2020-10-08,,estimate,3,6,11,0,0,2,4,7,21
+Penedo,2020-10-01,,estimate,3,7,10,0,0,2,4,9,27
+Santana do Ipanema,2020-11-20,,forecast,3,7,11,0,1,2,5,8,24
+Penedo,2020-10-28,,estimate,3,7,11,0,1,2,5,8,26
+Penedo,2020-09-24,,estimate,3,7,11,0,1,2,5,9,26
+Penedo,2020-10-02,,estimate,3,7,11,0,1,2,5,9,26
+Penedo,2020-09-25,,estimate,3,7,11,0,1,2,5,9,29
+Penedo,2020-09-28,,estimate,3,7,13,0,1,2,5,8,26
+Coruripe,2020-11-21,,forecast,3,7,18,0,1,2,5,8,23
+Coruripe,2020-11-24,,forecast,3,9,124,0,1,2,4,7,23
+Coruripe,2020-11-25,,forecast,3,15,359,0,1,2,5,8,23
+Marechal Deodoro,2020-11-24,,forecast,3,18,168,0,1,2,5,9,35
+Coruripe,2020-10-24,,estimate,4,5,6,0,1,3,5,7,17
+Coruripe,2020-11-05,,estimate,4,5,6,0,1,3,5,8,17
+Palmeira dos Índios,2020-10-03,,estimate,4,6,6,0,1,3,5,7,18
+Palmeira dos Índios,2020-09-26,,estimate,4,6,6,0,1,3,5,8,17
+Palmeira dos Índios,2020-10-04,,estimate,4,6,6,0,1,3,5,8,18
+Palmeira dos Índios,2020-11-04,,estimate,4,6,6,0,1,3,5,8,18
+Santana do Ipanema,2020-09-30,,estimate,4,6,6,0,1,3,5,8,18
+Coruripe,2020-10-07,,estimate,4,6,7,0,1,2,5,8,18
+Coruripe,2020-10-10,,estimate,4,6,7,0,1,2,5,8,18
+Coruripe,2020-10-02,,estimate,4,6,7,0,1,2,5,8,19
+Coruripe,2020-10-29,,estimate,4,6,7,0,1,3,5,7,18
+Coruripe,2020-10-22,,estimate,4,6,7,0,1,3,5,8,17
+Santana do Ipanema,2020-11-12,,estimate based on partial data,4,6,7,0,1,3,5,8,18
+Coruripe,2020-09-29,,estimate,4,6,7,0,1,3,5,8,19
+Coruripe,2020-10-08,,estimate,4,6,7,0,1,3,5,8,19
+Palmeira dos Índios,2020-10-30,,estimate,4,6,7,0,1,3,5,8,19
+Palmeira dos Índios,2020-11-06,,estimate,4,6,7,0,1,3,5,8,19
+Palmeira dos Índios,2020-11-13,,estimate based on partial data,4,6,7,0,1,3,5,8,19
+Coruripe,2020-09-30,,estimate,4,6,7,0,1,3,5,8,20
+Coruripe,2020-10-03,,estimate,4,6,7,0,1,3,5,8,20
+Palmeira dos Índios,2020-11-18,,estimate based on partial data,4,6,7,0,1,3,5,8,20
+Palmeira dos Índios,2020-10-28,,estimate,4,6,7,0,1,3,5,8,21
+Coruripe,2020-10-15,,estimate,4,6,7,0,1,3,5,9,20
+Coruripe,2020-10-01,,estimate,4,6,7,0,1,3,5,9,21
+Palmeira dos Índios,2020-10-23,,estimate,4,6,7,0,2,3,6,8,19
+Palmeira dos Índios,2020-11-11,,estimate based on partial data,4,6,7,0,2,3,6,9,20
+Palmeira dos Índios,2020-11-20,,forecast,4,6,8,0,1,3,5,8,20
+Marechal Deodoro,2020-10-09,,estimate,4,6,8,0,1,3,5,8,21
+Coruripe,2020-11-19,,forecast,4,6,8,0,1,3,5,8,22
+Palmeira dos Índios,2020-09-27,,estimate,4,6,8,0,1,3,5,9,20
+Marechal Deodoro,2020-10-10,,estimate,4,6,8,0,1,3,5,9,21
+Palmeira dos Índios,2020-10-21,,estimate,4,7,7,0,2,3,6,9,21
+Marechal Deodoro,2020-09-24,,estimate,4,7,8,0,1,3,5,9,22
+Marechal Deodoro,2020-09-30,,estimate,4,7,8,0,1,3,5,9,23
+Santana do Ipanema,2020-11-15,,estimate based on partial data,4,7,8,0,1,3,6,9,21
+Marechal Deodoro,2020-11-06,,estimate,4,7,8,0,1,3,6,9,22
+Coruripe,2020-09-25,,estimate,4,7,8,0,2,3,6,9,21
+Palmeira dos Índios,2020-10-16,,estimate,4,7,8,0,2,3,6,9,22
+Marechal Deodoro,2020-10-31,,estimate,4,7,9,0,1,3,6,9,23
+Marechal Deodoro,2020-10-02,,estimate,4,7,10,0,1,3,6,10,24
+Palmeira dos Índios,2020-11-25,,forecast,4,7,12,0,1,2,5,8,25
+Marechal Deodoro,2020-11-19,,forecast,4,8,13,0,1,2,5,9,29
+Marechal Deodoro,2020-11-18,,estimate based on partial data,4,8,13,0,1,3,6,9,26
+Penedo,2020-10-21,,estimate,4,9,16,0,1,2,6,11,32
+Santana do Ipanema,2020-11-23,,forecast,4,11,21,0,1,3,6,11,40
+Santana do Ipanema,2020-09-24,,estimate,5,6,7,0,2,3,6,9,20
+Santana do Ipanema,2020-11-11,,estimate based on partial data,5,7,7,0,2,3,6,9,20
+Coruripe,2020-09-26,,estimate,5,7,8,0,2,3,6,10,22
+Palmeira dos Índios,2020-10-14,,estimate,5,7,8,0,2,3,6,10,22
+Santana do Ipanema,2020-09-26,,estimate,5,7,8,0,2,3,6,10,22
+Coruripe,2020-09-24,,estimate,5,7,8,0,2,3,7,10,23
+Marechal Deodoro,2020-11-07,,estimate,5,7,9,0,1,3,6,10,25
+Santana do Ipanema,2020-11-17,,estimate based on partial data,5,7,9,0,2,3,6,9,25
+Palmeira dos Índios,2020-10-09,,estimate,5,8,8,0,2,4,7,10,24
+Palmeira dos Índios,2020-10-07,,estimate,5,8,9,0,2,4,7,11,25
+Marechal Deodoro,2020-11-13,,estimate based on partial data,5,8,10,0,1,3,6,10,24
+Marechal Deodoro,2020-10-03,,estimate,5,8,10,0,1,3,7,11,27
+Marechal Deodoro,2020-09-25,,estimate,5,8,10,0,2,3,7,11,28
+Santana do Ipanema,2020-11-14,,estimate based on partial data,5,8,10,0,2,4,7,11,27
+Marechal Deodoro,2020-11-14,,estimate based on partial data,5,9,11,0,2,4,7,12,29
+Marechal Deodoro,2020-09-26,,estimate,5,9,11,0,2,4,7,12,31
+Penedo,2020-10-14,,estimate,5,11,16,0,1,3,8,13,38
+Marechal Deodoro,2020-11-20,,forecast,5,11,21,0,2,4,7,12,39
+Marechal Deodoro,2020-11-25,,forecast,5,19,90,0,1,3,7,13,58
+Palmeira dos Índios,2020-10-02,,estimate,6,9,10,0,2,4,8,12,26
+Palmeira dos Índios,2020-09-30,,estimate,6,9,11,0,2,4,8,12,28
+Palmeira dos Índios,2020-09-25,,estimate,6,10,11,0,2,5,8,13,30
+Penedo,2020-10-07,,estimate,6,12,18,0,1,3,8,15,46
+Penedo,2020-09-30,,estimate,6,13,21,0,1,4,10,18,50
+Marechal Deodoro,2020-11-21,,forecast,6,13,41,0,2,4,8,14,42
+Santana do Ipanema,2020-11-19,,forecast,7,12,21,0,3,5,9,14,38
+Santana do Ipanema,2020-11-22,,forecast,7,15,25,0,3,5,10,17,57
+Santana do Ipanema,2020-11-24,,forecast,7,22,89,0,3,5,10,19,68
+Maceió,2020-10-19,,estimate,8,12,14,0,3,6,11,16,36
+Maceió,2020-10-20,,estimate,8,12,14,0,3,6,11,16,38
+Santana do Ipanema,2020-11-18,,estimate based on partial data,8,12,15,0,3,6,10,16,37
+Maceió,2020-10-26,,estimate,9,13,14,0,4,6,11,17,38
+Maceió,2020-10-27,,estimate,9,14,17,0,4,7,12,19,44
+Santana do Ipanema,2020-11-21,,forecast,9,17,27,0,4,6,12,20,58
+Arapiraca,2020-10-13,,estimate,10,13,10,1,5,8,13,17,34
+Maceió,2020-10-12,,estimate,10,17,19,0,4,7,14,23,54
+Arapiraca,2020-10-12,,estimate,11,13,10,2,6,9,13,18,32
+Arapiraca,2020-10-19,,estimate,11,13,10,2,6,9,13,18,33
+Arapiraca,2020-10-20,,estimate,11,13,10,2,6,9,13,18,33
+Arapiraca,2020-10-11,,estimate,11,14,11,2,6,9,13,19,36
+Arapiraca,2020-10-18,,estimate,11,14,11,2,6,9,14,18,35
+Maceió,2020-10-13,,estimate,11,16,18,0,4,8,14,21,50
+Arapiraca,2020-10-06,,estimate,12,15,12,2,6,9,14,20,38
+Arapiraca,2020-10-27,,estimate,12,15,13,2,6,10,15,20,38
+Maceió,2020-11-02,,estimate,12,17,17,0,5,8,15,23,50
+Santana do Ipanema,2020-11-25,,forecast,12,34,115,0,4,8,17,29,112
+Arapiraca,2020-10-26,,estimate,13,15,12,2,7,10,15,20,38
+Arapiraca,2020-10-15,,estimate,13,16,12,2,7,10,15,21,37
+Arapiraca,2020-10-25,,estimate,13,16,12,2,7,10,15,21,38
+Arapiraca,2020-11-03,,estimate,13,16,12,2,7,11,16,21,39
+Arapiraca,2020-10-05,,estimate,13,16,12,2,7,11,16,22,39
+Arapiraca,2020-10-16,,estimate,13,16,12,2,7,11,16,22,39
+Arapiraca,2020-10-22,,estimate,13,16,12,2,8,11,16,22,38
+Arapiraca,2020-10-08,,estimate,13,17,13,2,8,11,17,23,42
+Maceió,2020-11-03,,estimate,13,19,21,1,6,9,17,25,60
+Maceió,2020-10-23,,estimate,13,21,24,1,6,10,18,28,69
+Arapiraca,2020-11-01,,estimate,14,17,13,3,8,11,16,23,42
+Arapiraca,2020-11-02,,estimate,14,17,13,3,8,11,17,23,42
+Arapiraca,2020-10-04,,estimate,14,17,14,2,8,12,17,23,43
+Arapiraca,2020-10-23,,estimate,14,18,13,3,8,12,17,23,43
+Arapiraca,2020-10-09,,estimate,14,18,14,2,8,12,18,24,43
+Maceió,2020-11-10,,estimate based on partial data,14,22,23,1,6,11,20,30,69
+Maceió,2020-11-09,,estimate based on partial data,14,22,25,1,6,10,18,28,69
+Arapiraca,2020-11-09,,estimate based on partial data,15,18,14,2,8,12,18,25,45
+Arapiraca,2020-10-29,,estimate,15,18,14,3,9,12,18,24,45
+Maceió,2020-10-16,,estimate,15,23,25,1,6,11,20,31,74
+Arapiraca,2020-11-10,,estimate based on partial data,16,19,15,3,9,13,20,26,47
+Arapiraca,2020-09-29,,estimate,16,20,15,3,9,13,19,26,49
+Arapiraca,2020-10-30,,estimate,16,20,15,3,9,13,20,27,48
+Arapiraca,2020-11-08,,estimate,16,20,15,3,9,13,20,27,48
+Maceió,2020-10-21,,estimate,16,24,26,1,7,12,21,32,71
+Maceió,2020-11-16,,estimate based on partial data,16,25,29,1,7,12,21,32,78
+Maceió,2020-11-17,,estimate based on partial data,16,26,31,1,6,11,22,34,86
+Maceió,2020-11-23,,forecast,16,61,676,1,6,11,23,41,140
+Maceió,2020-11-24,,forecast,16,75,693,1,6,11,24,43,182
+Arapiraca,2020-09-28,,estimate,17,21,15,3,9,14,21,27,50
+Arapiraca,2020-11-05,,estimate,17,21,16,3,10,14,21,28,52
+Arapiraca,2020-10-02,,estimate,18,22,17,3,10,14,22,29,56
+Arapiraca,2020-11-06,,estimate,18,22,18,3,10,15,22,30,55
+Arapiraca,2020-10-01,,estimate,18,23,19,3,10,14,22,31,56
+Arapiraca,2020-11-16,,estimate based on partial data,18,23,19,3,10,15,22,31,57
+Maceió,2020-10-30,,estimate,18,26,28,1,7,13,24,36,81
+Maceió,2020-10-06,,estimate,18,27,31,1,8,14,24,36,84
+Maceió,2020-10-28,,estimate,18,28,30,1,7,13,24,38,90
+Maceió,2020-10-14,,estimate,18,29,32,1,8,14,26,39,96
+Arapiraca,2020-09-27,,estimate,19,23,17,3,10,15,23,30,54
+Arapiraca,2020-10-17,,estimate,19,23,17,4,11,15,22,30,55
+Arapiraca,2020-10-10,,estimate,19,23,17,4,11,15,23,31,58
+Arapiraca,2020-10-14,,estimate,19,24,20,3,11,15,24,32,61
+Arapiraca,2020-11-17,,estimate based on partial data,19,25,21,3,10,15,23,33,64
+Maceió,2020-10-05,,estimate,19,27,29,1,8,13,25,38,86
+Maceió,2020-10-18,,estimate,19,28,29,1,8,13,24,37,89
+Maceió,2020-10-25,,estimate,19,28,29,1,8,14,26,38,86
+Maceió,2020-10-22,,estimate,19,29,33,1,9,15,26,39,90
+Arapiraca,2020-11-12,,estimate based on partial data,20,24,18,3,11,16,24,32,58
+Arapiraca,2020-11-15,,estimate based on partial data,20,24,19,4,11,16,25,32,58
+Arapiraca,2020-10-21,,estimate,21,26,19,4,12,17,26,35,64
+Arapiraca,2020-10-24,,estimate,21,26,20,4,12,17,25,34,62
+Arapiraca,2020-11-13,,estimate based on partial data,21,26,20,4,12,17,25,35,66
+Arapiraca,2020-09-24,,estimate,21,27,21,4,13,17,26,36,65
+Arapiraca,2020-10-07,,estimate,22,27,21,4,12,18,27,36,68
+Maceió,2020-10-15,,estimate,22,34,36,2,10,17,30,45,104
+Arapiraca,2020-11-23,,forecast,22,46,211,3,11,18,29,43,130
+Arapiraca,2020-10-28,,estimate,23,29,22,4,13,20,28,37,72
+Arapiraca,2020-10-31,,estimate,24,29,22,4,13,19,28,38,71
+Arapiraca,2020-10-03,,estimate,24,30,22,5,14,20,30,40,72
+Arapiraca,2020-09-25,,estimate,24,30,24,5,13,20,29,39,73
+Maceió,2020-11-06,,estimate,24,34,36,2,11,18,31,46,104
+Maceió,2020-10-29,,estimate,24,36,40,1,10,18,32,48,108
+Maceió,2020-10-09,,estimate,24,36,40,2,10,19,32,47,106
+Arapiraca,2020-11-22,,forecast,24,39,61,4,13,19,31,44,115
+Arapiraca,2020-11-24,,forecast,24,52,184,4,12,19,30,47,150
+Arapiraca,2020-11-07,,estimate,25,31,24,5,14,21,30,40,76
+Maceió,2020-10-24,,estimate,25,38,41,2,11,19,33,51,114
+Maceió,2020-11-04,,estimate,25,39,41,2,11,19,33,51,124
+Arapiraca,2020-11-19,,forecast,26,34,30,5,14,21,31,44,88
+Arapiraca,2020-11-20,,forecast,26,37,41,5,14,21,33,47,106
+Maceió,2020-11-01,,estimate,26,39,42,2,11,20,33,51,120
+Maceió,2020-10-17,,estimate,26,40,45,1,10,19,33,54,130
+Arapiraca,2020-11-04,,estimate,27,32,24,5,15,22,32,42,78
+Maceió,2020-11-13,,estimate based on partial data,27,40,40,2,12,21,37,55,121
+Maceió,2020-10-11,,estimate,27,41,43,2,12,20,36,55,122
+Maceió,2020-11-20,,forecast,27,51,75,2,11,20,37,64,171
+Arapiraca,2020-09-30,,estimate,29,35,25,5,16,24,35,47,84
+Arapiraca,2020-11-14,,estimate based on partial data,30,37,28,6,17,25,37,51,91
+Arapiraca,2020-11-11,,estimate based on partial data,30,37,28,6,18,25,38,49,90
+Maceió,2020-09-29,,estimate,30,45,48,2,13,22,40,60,138
+Maceió,2020-09-28,,estimate,30,45,51,2,13,23,40,59,135
+Maceió,2020-11-11,,estimate based on partial data,31,43,45,2,13,22,39,59,127
+Maceió,2020-11-18,,estimate based on partial data,31,50,61,2,13,23,41,65,154
+Maceió,2020-11-25,,forecast,31,230,3511,1,11,22,44,82,367
+Arapiraca,2020-09-26,,estimate,32,38,29,6,17,25,38,51,94
+Maceió,2020-11-05,,estimate,32,48,53,2,14,24,43,63,140
+Maceió,2020-10-31,,estimate,32,48,54,3,14,24,42,64,147
+Maceió,2020-10-07,,estimate,32,50,53,3,14,24,44,68,154
+Maceió,2020-11-08,,estimate,34,48,48,3,15,25,45,65,138
+Maceió,2020-11-15,,estimate based on partial data,36,53,55,2,16,27,47,71,164
+Maceió,2020-10-08,,estimate,37,54,55,3,17,29,47,74,156
+Maceió,2020-11-22,,forecast,37,97,584,2,14,26,51,89,295
+Arapiraca,2020-11-18,,estimate based on partial data,38,49,42,8,21,31,47,62,128
+Maceió,2020-11-12,,estimate based on partial data,38,55,54,3,17,29,50,74,171
+Arapiraca,2020-11-21,,forecast,38,58,78,7,21,31,48,70,161
+Maceió,2020-10-10,,estimate,39,59,68,3,16,28,50,77,179
+Maceió,2020-10-02,,estimate,40,61,64,3,18,30,54,83,182
+Maceió,2020-11-07,,estimate,41,62,70,3,18,31,54,82,189
+Maceió,2020-11-19,,forecast,43,69,91,3,16,30,57,87,214
+Arapiraca,2020-11-25,,forecast,45,138,1003,7,22,35,58,90,289
+Maceió,2020-11-14,,estimate based on partial data,47,75,87,3,20,35,63,99,231
+Maceió,2020-10-04,,estimate,48,72,79,4,20,36,62,95,231
+Maceió,2020-11-21,,forecast,49,103,218,4,19,36,68,113,344
+Maceió,2020-09-30,,estimate,53,79,83,4,25,41,69,107,240
+Maceió,2020-09-25,,estimate,57,85,88,5,25,44,74,118,259
+Maceió,2020-10-01,,estimate,64,94,98,7,30,50,83,123,273
+Maceió,2020-10-03,,estimate,70,103,107,6,31,50,93,140,309
+Maceió,2020-09-27,,estimate,71,106,114,6,32,53,91,141,333
+Maceió,2020-09-24,,estimate,85,123,128,6,38,64,112,164,348
+Maceió,2020-09-26,,estimate,98,147,158,9,44,71,134,201,428

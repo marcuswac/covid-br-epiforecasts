@@ -6,6 +6,7 @@ require(purrr)
 require(data.table)
 
 #posts <- c("_posts/global" , list.dirs("_posts/national", recursive = FALSE))
+#posts <- c(list.dirs("_posts/states", recursive = FALSE), list.dirs("_posts/national", recursive = FALSE))
 posts <- list.dirs("_posts/national", recursive = FALSE)
 
 

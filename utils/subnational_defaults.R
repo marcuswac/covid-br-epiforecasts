@@ -33,7 +33,8 @@ if (!exists("region_var")) {
 }
 
   # Read in each summary folder
-base_path <- "https://raw.githubusercontent.com/epiforecasts/covid-rt-estimates/master/"
+#base_path <- "https://raw.githubusercontent.com/epiforecasts/covid-rt-estimates/master/"
+base_path <- "covid-rt-estimates/"
 
 read_in_rt <- function(data = "cases") { 
   RtD3::readInEpiNow2(path = paste0(base_path, "subnational/", folder, "/", data, "/summary"),
