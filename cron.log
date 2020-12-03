@@ -587,3 +587,642 @@ The following object is masked from ‘package:magrittr’:
 
     set_names
 
+Run for all regional locations2020-12-02 16:17:06 INFO Processing dataset for brazil
+2020-12-02 16:17:06 INFO Getting regional data
+2020-12-02 16:17:24 INFO Using 6 workers with 4 cores per worker
+2020-12-02 16:17:24 INFO Reporting estimates using data up to: 2020-11-28
+2020-12-02 16:17:24 INFO Producing estimates for: Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Distrito Federal, Espirito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Roraima, Santa Catarina, São Paulo, Sergipe, Tocantins
+2020-12-02 16:17:24 INFO Regions excluded: none
+2020-12-02 16:17:24 INFO Showing progress using progressr. Modify this behaviour using progressr::handlers.
+2020-12-02 16:17:24 INFO Initialising estimates for: Acre
+2020-12-02 16:30:51 WARN Acre: There were 7 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:30:51 WARN Acre: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:34:29 WARN Acre: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:34:29 WARN Acre: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:34:38 WARN Acre: There were 10 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:34:38 WARN Acre: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:34:38 WARN Acre: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:34:38 WARN Acre: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:34:57 INFO Completed estimates for: Acre
+2020-12-02 16:17:25 INFO Initialising estimates for: Alagoas
+2020-12-02 16:48:38 WARN Alagoas: There were 4 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:48:38 WARN Alagoas: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:49:50 INFO Completed estimates for: Alagoas
+2020-12-02 16:17:25 INFO Initialising estimates for: Amapá
+2020-12-02 16:27:32 WARN Amapá: There were 8 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:27:32 WARN Amapá: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:32:39 WARN Amapá: There were 8 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:32:39 WARN Amapá: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:32:39 WARN Amapá: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#tail-ess - 
+2020-12-02 16:32:39 WARN Amapá: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:32:39 WARN Amapá: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:32:56 INFO Completed estimates for: Amapá
+2020-12-02 16:17:27 INFO Initialising estimates for: Amazonas
+2020-12-02 16:30:05 WARN Amazonas: There were 3 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:30:05 WARN Amazonas: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:42:13 WARN Amazonas: There were 3 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:42:13 WARN Amazonas: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:42:33 INFO Completed estimates for: Amazonas
+2020-12-02 16:17:28 INFO Initialising estimates for: Bahia
+2020-12-02 16:33:10 WARN Bahia: There were 6 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:33:10 WARN Bahia: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:35:01 WARN Bahia: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:35:01 WARN Bahia: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:35:01 WARN Bahia: There were 237 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:35:01 WARN Bahia: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:35:01 WARN Bahia: The largest R-hat is 1.26, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#r-hat - 
+2020-12-02 16:35:02 WARN Bahia: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#bulk-ess - 
+2020-12-02 16:35:02 WARN Bahia: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#tail-ess - 
+2020-12-02 16:35:02 WARN Bahia: There were 5 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:35:02 WARN Bahia: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:35:13 INFO Completed estimates for: Bahia
+2020-12-02 16:17:30 INFO Initialising estimates for: Ceará
+2020-12-02 16:32:22 WARN Ceará: There were 3 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:32:22 WARN Ceará: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:35:02 WARN Ceará: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:35:02 WARN Ceará: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:35:20 INFO Completed estimates for: Ceará
+2020-12-02 16:33:00 INFO Initialising estimates for: Distrito Federal
+2020-12-02 16:35:13 WARN Distrito Federal: cannot remove file '/tmp/RtmpbfV0V6/progression5888106c3ffd.rds', reason 'No such file or directory' - file.remove, files
+2020-12-02 16:50:39 WARN Distrito Federal: There were 11 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:50:39 WARN Distrito Federal: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:02:10 WARN Distrito Federal: There were 9 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:02:10 WARN Distrito Federal: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:02:10 WARN Distrito Federal: There were 7 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:02:10 WARN Distrito Federal: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:02:22 INFO Completed estimates for: Distrito Federal
+2020-12-02 16:35:01 INFO Initialising estimates for: Espirito Santo
+2020-12-02 16:52:47 WARN Espirito Santo: There were 6 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:52:47 WARN Espirito Santo: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:53:45 WARN Espirito Santo: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:53:45 WARN Espirito Santo: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:53:45 WARN Espirito Santo: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:53:45 WARN Espirito Santo: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:54:04 INFO Completed estimates for: Espirito Santo
+2020-12-02 16:35:18 INFO Initialising estimates for: Goiás
+2020-12-02 16:35:20 WARN Goiás: cannot remove file '/tmp/RtmpbfV0V6/progression57b571a85879.rds', reason 'No such file or directory' - file.remove, files
+2020-12-02 16:55:22 WARN Goiás: There were 9 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:55:22 WARN Goiás: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:55:22 WARN Goiás: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:55:22 WARN Goiás: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:55:22 WARN Goiás: There were 9 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 16:55:22 WARN Goiás: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 16:55:41 INFO Completed estimates for: Goiás
+2020-12-02 16:35:24 INFO Initialising estimates for: Maranhão
+2020-12-02 16:42:33 WARN Maranhão: cannot remove file '/tmp/RtmpbfV0V6/progression57b5244dc310.rds', reason 'No such file or directory' - file.remove, files
+2020-12-02 16:42:33 WARN Maranhão: cannot remove file '/tmp/RtmpbfV0V6/progression586c482bea9e.rds', reason 'No such file or directory' - file.remove, files
+2020-12-02 17:01:02 WARN Maranhão: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:01:02 WARN Maranhão: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:01:02 WARN Maranhão: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:01:02 WARN Maranhão: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:01:21 INFO Completed estimates for: Maranhão
+2020-12-02 16:42:40 INFO Initialising estimates for: Mato Grosso
+2020-12-02 17:05:32 WARN Mato Grosso: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:05:32 WARN Mato Grosso: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:09:27 WARN Mato Grosso: cannot remove file '/tmp/RtmpbfV0V6/progression5931482bea9e.rds', reason 'No such file or directory' - file.remove, files
+2020-12-02 17:09:50 WARN Mato Grosso: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:09:50 WARN Mato Grosso: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:09:50 WARN Mato Grosso: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:09:50 WARN Mato Grosso: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:10:09 INFO Completed estimates for: Mato Grosso
+2020-12-02 16:49:55 INFO Initialising estimates for: Mato Grosso do Sul
+2020-12-02 17:08:23 WARN Mato Grosso do Sul: There were 3 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:08:23 WARN Mato Grosso do Sul: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:15:44 WARN Mato Grosso do Sul: There were 3 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:15:44 WARN Mato Grosso do Sul: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:16:03 INFO Completed estimates for: Mato Grosso do Sul
+2020-12-02 16:54:11 INFO Initialising estimates for: Minas Gerais
+2020-12-02 17:06:22 WARN Minas Gerais: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:06:22 WARN Minas Gerais: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:09:15 WARN Minas Gerais: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:09:15 WARN Minas Gerais: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:09:15 WARN Minas Gerais: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:09:15 WARN Minas Gerais: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:09:27 INFO Completed estimates for: Minas Gerais
+2020-12-02 16:55:45 INFO Initialising estimates for: Pará
+2020-12-02 17:12:00 WARN Pará: There were 10 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:12:00 WARN Pará: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:13:49 WARN Pará: There were 9 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:13:49 WARN Pará: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:16:40 WARN Pará: There were 4 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:16:40 WARN Pará: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:16:52 INFO Completed estimates for: Pará
+2020-12-02 17:01:26 INFO Initialising estimates for: Paraíba
+2020-12-03 01:34:10 WARN Paraíba: The following variables have undefined values:  imputed_reports[1],The following variables have undefined values:  imputed_reports[2],The following variables have undefined values:  imputed_reports[3],The following variables have undefined values:  imputed_reports[4],The following variables have undefined values:  imputed_reports[5],The following variables have undefined values:  imputed_reports[6],The following variables have undefined values:  imputed_reports[7],The following variables have undefined values:  imputed_reports[8],The following variables have undefined values:  imputed_reports[9],The following variables have undefined values:  imputed_reports[10],The following variables have undefined values:  imputed_reports[11],The following variables have undefined values:  imputed_reports[12],The following variables have undefined values:  imputed_reports[13],The following variables have undefined values:  imputed_reports[14],The following variables have undefined values:  imputed_reports[15],The following variables have undefined values:  imputed_reports[16],The following variables have undefined values:  imputed_reports[17],The following variables have undefined values:  imputed_reports[18],The following variables have undefined values:  imputed_reports[19],The following variables have undefined values:  imputed_reports[20],The following variables have undefined values:  imputed_reports[21],The following variables have undefined values:  imputed_reports[22],The following variables have undefined values:  imputed_reports[23],The following variables have undefined values:  imputed_reports[24],The following variables have undefined values:  imputed_reports[25],The following variables have undefined values:  imputed_reports[26],The following variables have undefined values:  imputed_reports[27],The following variables have undefined values:  imputed_reports[28],The following variables have undefined values:  imputed_reports[29],The following variables have undefined values:  imputed_reports[30],The following variables have undefined values:  imputed_reports[31],The following variables have undefined values:  imputed_reports[32],The following variables have undefined values:  imputed_reports[33],The following variables have undefined values:  imputed_reports[34],The following variables have undefined values:  imputed_reports[35],The following variables have undefined values:  imputed_reports[36],The following variables have undefined values:  imputed_reports[37],The following variables have undefined values:  imputed_reports[38],The following variables have undefined values:  imputed_reports[39],The following variables have undefined values:  imputed_reports[40],The following variables have undefined values:  imputed_reports[41],The following variables have undefined values:  imputed_reports[42],The following variables have undefined values:  imputed_reports[43],The following variables have undefined values:  imputed_reports[44],The following variables have undefined values:  imputed_reports[45],The following variables have undefined values:  imputed_reports[46],The following variables have undefined values:  imputed_reports[47],The following variables have undefined values:  imputed_reports[48],The following variables have undefined values:  imputed_reports[49],The following variables have undefined values:  imputed_reports[50],The following variables have undefined values:  imputed_reports[51],The following variables have undefined values:  imputed_reports[52],The following variables have undefined values:  imputed_reports[53],The following variables have undefined values:  imputed_reports[54],The following variables have undefined values:  imputed_reports[55],The following variables have undefined values:  imputed_reports[56],The following variables have undefined values:  imputed_reports[57],The following variables have undefined values:  imputed_reports[58],The following variables have undefined values:  imputed_reports[59],The following variables have undefined values:  imputed_reports[60],The following variables have undefined values:  imputed_reports[61],The following variables have undefined values:  imputed_reports[62],The following variables have undefined values:  imputed_reports[63],The following variables have undefined values:  imputed_reports[64],The following variables have undefined values:  imputed_reports[65],The following variables have undefined values:  imputed_reports[66],The following variables have undefined values:  imputed_reports[67],The following variables have undefined values:  imputed_reports[68],The following variables have undefined values:  imputed_reports[69],The following variables have undefined values:  imputed_reports[70],The following variables have undefined values:  imputed_reports[71],The following variables have undefined values:  imputed_reports[72],The following variables have undefined values:  imputed_reports[73],The following variables have undefined values:  imputed_reports[74],The following variables have undefined values:  imputed_reports[75],The following variables have undefined values:  imputed_reports[76],The following variables have undefined values:  imputed_reports[77],The following variables have undefined values:  imputed_reports[78],The following variables have undefined values:  imputed_reports[79],The following variables have undefined values:  imputed_reports[80],The following variables have undefined values:  imputed_reports[81],The following variables have undefined values:  imputed_reports[82],The following variables have undefined values:  imputed_reports[83],The following variables have undefined values:  imputed_reports[84],The following variables have undefined values:  imputed_reports[85],The following variables have undefined values:  imputed_reports[86],The following variables have undefined values:  imputed_reports[87],The following variables have undefined values:  imputed_reports[88],The following variables have undefined values:  imputed_reports[89],The following variables have undefined values:  imputed_reports[90],The following variables have undefined values:  imputed_reports[91],The following variables have undefined values:  imputed_reports[92],The following variables have undefined values:  imputed_reports[93],The following variables have undefined values:  imputed_reports[94],The following variables have undefined values:  imputed_reports[95],The following variables have undefined values:  imputed_reports[96],The following variables have undefined values:  imputed_reports[97],The following variables have undefined values:  imputed_reports[98],The following variables have undefined values:  imputed_reports[99],The following variables have undefined values:  r[1],The following variables have undefined values:  r[2],The following variables have undefined values:  r[3],The following variables have undefined values:  r[4],The following variables have undefined values:  r[5],The following variables have undefined values:  r[6],The following variables have undefined values:  r[7],The following variables have undefined values:  r[8],The following variables have undefined values:  r[9],The following variables have undefined values:  r[10],The following variables have undefined values:  r[11],The following variables have undefined values:  r[12],The following variables have undefined values:  r[13],The following variables have undefined values:  r[14],The following variables have undefined values:  r[15],The following variables have undefined values:  r[16],The following variables have undefined values:  r[17],The following variables have undefined values:  r[18],The following variables have undefined values:  r[19],The following variables have undefined values:  r[20],The following variables have undefined values:  r[21],The following variables have undefined values:  r[22],The following variables have undefined values:  r[23],The following variables have undefined values:  r[24],The following variables have undefined values:  r[25],The following variables have undefined values:  r[26],The following variables have undefined values:  r[27],The following vari - validityMethod, object
+2020-12-03 01:34:10 WARN Paraíba: There were 1000 transitions after warmup that exceeded the maximum treedepth. Increase max_treedepth above 15. See
+http://mc-stan.org/misc/warnings.html#maximum-treedepth-exceeded - 
+2020-12-03 01:34:10 WARN Paraíba: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 01:34:10 WARN Paraíba: The largest R-hat is NA, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#r-hat - 
+2020-12-03 01:34:10 WARN Paraíba: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#bulk-ess - 
+2020-12-03 01:34:10 WARN Paraíba: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#tail-ess - 
+2020-12-03 01:34:10 WARN Paraíba: There were 3 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 01:34:10 WARN Paraíba: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 01:34:10 WARN Paraíba: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 01:34:10 WARN Paraíba: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 01:34:10 WARN Paraíba: There were 5 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 01:34:10 WARN Paraíba: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 01:34:10 WARN Paraíba: The following variables have undefined values:  imputed_reports[1],The following variables have undefined values:  imputed_reports[2],The following variables have undefined values:  imputed_reports[3],The following variables have undefined values:  imputed_reports[4],The following variables have undefined values:  imputed_reports[5],The following variables have undefined values:  imputed_reports[6],The following variables have undefined values:  imputed_reports[7],The following variables have undefined values:  imputed_reports[8],The following variables have undefined values:  imputed_reports[9],The following variables have undefined values:  imputed_reports[10],The following variables have undefined values:  imputed_reports[11],The following variables have undefined values:  imputed_reports[12],The following variables have undefined values:  imputed_reports[13],The following variables have undefined values:  imputed_reports[14],The following variables have undefined values:  imputed_reports[15],The following variables have undefined values:  imputed_reports[16],The following variables have undefined values:  imputed_reports[17],The following variables have undefined values:  imputed_reports[18],The following variables have undefined values:  imputed_reports[19],The following variables have undefined values:  imputed_reports[20],The following variables have undefined values:  imputed_reports[21],The following variables have undefined values:  imputed_reports[22],The following variables have undefined values:  imputed_reports[23],The following variables have undefined values:  imputed_reports[24],The following variables have undefined values:  imputed_reports[25],The following variables have undefined values:  imputed_reports[26],The following variables have undefined values:  imputed_reports[27],The following variables have undefined values:  imputed_reports[28],The following variables have undefined values:  imputed_reports[29],The following variables have undefined values:  imputed_reports[30],The following variables have undefined values:  imputed_reports[31],The following variables have undefined values:  imputed_reports[32],The following variables have undefined values:  imputed_reports[33],The following variables have undefined values:  imputed_reports[34],The following variables have undefined values:  imputed_reports[35],The following variables have undefined values:  imputed_reports[36],The following variables have undefined values:  imputed_reports[37],The following variables have undefined values:  imputed_reports[38],The following variables have undefined values:  imputed_reports[39],The following variables have undefined values:  imputed_reports[40],The following variables have undefined values:  imputed_reports[41],The following variables have undefined values:  imputed_reports[42],The following variables have undefined values:  imputed_reports[43],The following variables have undefined values:  imputed_reports[44],The following variables have undefined values:  imputed_reports[45],The following variables have undefined values:  imputed_reports[46],The following variables have undefined values:  imputed_reports[47],The following variables have undefined values:  imputed_reports[48],The following variables have undefined values:  imputed_reports[49],The following variables have undefined values:  imputed_reports[50],The following variables have undefined values:  imputed_reports[51],The following variables have undefined values:  imputed_reports[52],The following variables have undefined values:  imputed_reports[53],The following variables have undefined values:  imputed_reports[54],The following variables have undefined values:  imputed_reports[55],The following variables have undefined values:  imputed_reports[56],The following variables have undefined values:  imputed_reports[57],The following variables have undefined values:  imputed_reports[58],The following variables have undefined values:  imputed_reports[59],The following variables have undefined values:  imputed_reports[60],The following variables have undefined values:  imputed_reports[61],The following variables have undefined values:  imputed_reports[62],The following variables have undefined values:  imputed_reports[63],The following variables have undefined values:  imputed_reports[64],The following variables have undefined values:  imputed_reports[65],The following variables have undefined values:  imputed_reports[66],The following variables have undefined values:  imputed_reports[67],The following variables have undefined values:  imputed_reports[68],The following variables have undefined values:  imputed_reports[69],The following variables have undefined values:  imputed_reports[70],The following variables have undefined values:  imputed_reports[71],The following variables have undefined values:  imputed_reports[72],The following variables have undefined values:  imputed_reports[73],The following variables have undefined values:  imputed_reports[74],The following variables have undefined values:  imputed_reports[75],The following variables have undefined values:  imputed_reports[76],The following variables have undefined values:  imputed_reports[77],The following variables have undefined values:  imputed_reports[78],The following variables have undefined values:  imputed_reports[79],The following variables have undefined values:  imputed_reports[80],The following variables have undefined values:  imputed_reports[81],The following variables have undefined values:  imputed_reports[82],The following variables have undefined values:  imputed_reports[83],The following variables have undefined values:  imputed_reports[84],The following variables have undefined values:  imputed_reports[85],The following variables have undefined values:  imputed_reports[86],The following variables have undefined values:  imputed_reports[87],The following variables have undefined values:  imputed_reports[88],The following variables have undefined values:  imputed_reports[89],The following variables have undefined values:  imputed_reports[90],The following variables have undefined values:  imputed_reports[91],The following variables have undefined values:  imputed_reports[92],The following variables have undefined values:  imputed_reports[93],The following variables have undefined values:  imputed_reports[94],The following variables have undefined values:  imputed_reports[95],The following variables have undefined values:  imputed_reports[96],The following variables have undefined values:  imputed_reports[97],The following variables have undefined values:  imputed_reports[98],The following variables have undefined values:  imputed_reports[99],The following variables have undefined values:  r[1],The following variables have undefined values:  r[2],The following variables have undefined values:  r[3],The following variables have undefined values:  r[4],The following variables have undefined values:  r[5],The following variables have undefined values:  r[6],The following variables have undefined values:  r[7],The following variables have undefined values:  r[8],The following variables have undefined values:  r[9],The following variables have undefined values:  r[10],The following variables have undefined values:  r[11],The following variables have undefined values:  r[12],The following variables have undefined values:  r[13],The following variables have undefined values:  r[14],The following variables have undefined values:  r[15],The following variables have undefined values:  r[16],The following variables have undefined values:  r[17],The following variables have undefined values:  r[18],The following variables have undefined values:  r[19],The following variables have undefined values:  r[20],The following variables have undefined values:  r[21],The following variables have undefined values:  r[22],The following variables have undefined values:  r[23],The following variables have undefined values:  r[24],The following variables have undefined values:  r[25],The following variables have undefined values:  r[26],The following variables have undefined values:  r[27],The following vari - validityMethod, object
+2020-12-03 01:34:20 INFO Completed estimates for: Paraíba
+2020-12-02 17:02:26 INFO Initialising estimates for: Paraná
+2020-12-02 17:31:51 INFO Completed estimates for: Paraná
+2020-12-02 17:09:34 INFO Initialising estimates for: Pernambuco
+2020-12-02 17:30:26 WARN Pernambuco: There were 5 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:30:26 WARN Pernambuco: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:30:26 WARN Pernambuco: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:30:26 WARN Pernambuco: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:30:26 WARN Pernambuco: There were 6 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:30:26 WARN Pernambuco: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:30:37 INFO Completed estimates for: Pernambuco
+2020-12-02 17:10:14 INFO Initialising estimates for: Piauí
+2020-12-02 17:16:53 WARN Piauí: cannot remove file '/tmp/RtmpbfV0V6/progression5964106c3ffd.rds', reason 'No such file or directory' - file.remove, files
+2020-12-02 17:22:51 WARN Piauí: There were 83 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:22:51 WARN Piauí: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:36:28 WARN Piauí: There were 4 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:36:28 WARN Piauí: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:36:28 WARN Piauí: The largest R-hat is 1.07, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#r-hat - 
+2020-12-02 17:36:28 WARN Piauí: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#bulk-ess - 
+2020-12-02 17:36:28 WARN Piauí: There were 20 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:36:28 WARN Piauí: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:36:28 WARN Piauí: There were 70 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:36:28 WARN Piauí: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:36:46 INFO Completed estimates for: Piauí
+2020-12-02 17:16:11 INFO Initialising estimates for: Rio de Janeiro
+2020-12-02 17:26:26 WARN Rio de Janeiro: There were 9 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:26:26 WARN Rio de Janeiro: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:30:21 WARN Rio de Janeiro: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:30:21 WARN Rio de Janeiro: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:30:21 WARN Rio de Janeiro: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:30:21 WARN Rio de Janeiro: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:30:21 WARN Rio de Janeiro: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:30:21 WARN Rio de Janeiro: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:30:34 INFO Completed estimates for: Rio de Janeiro
+2020-12-02 17:16:59 INFO Initialising estimates for: Rio Grande do Norte
+2020-12-02 17:42:04 WARN Rio Grande do Norte: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:42:04 WARN Rio Grande do Norte: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:42:23 INFO Completed estimates for: Rio Grande do Norte
+2020-12-02 17:30:41 INFO Initialising estimates for: Rio Grande do Sul
+2020-12-02 17:40:30 WARN Rio Grande do Sul: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:40:30 WARN Rio Grande do Sul: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:43:32 WARN Rio Grande do Sul: There were 3 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:43:32 WARN Rio Grande do Sul: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:45:11 WARN Rio Grande do Sul: There were 5 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:45:11 WARN Rio Grande do Sul: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:46:33 INFO Completed estimates for: Rio Grande do Sul
+2020-12-02 17:30:43 INFO Initialising estimates for: Rondônia
+2020-12-02 17:45:46 WARN Rondônia: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:45:46 WARN Rondônia: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:45:46 WARN Rondônia: There were 11 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:45:46 WARN Rondônia: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:45:46 WARN Rondônia: There were 9 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:45:46 WARN Rondônia: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:45:46 WARN Rondônia: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#tail-ess - 
+2020-12-02 17:45:46 WARN Rondônia: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:45:46 WARN Rondônia: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:45:58 INFO Completed estimates for: Rondônia
+2020-12-02 17:31:58 INFO Initialising estimates for: Roraima
+2020-12-02 17:50:38 WARN Roraima: There were 6 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:50:38 WARN Roraima: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:50:38 WARN Roraima: There were 4 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:50:38 WARN Roraima: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:50:38 WARN Roraima: There were 3 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:50:38 WARN Roraima: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:50:38 WARN Roraima: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#tail-ess - 
+2020-12-02 17:50:38 WARN Roraima: There were 7 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:50:38 WARN Roraima: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:50:58 INFO Completed estimates for: Roraima
+2020-12-02 17:36:50 INFO Initialising estimates for: Santa Catarina
+2020-12-02 17:56:37 WARN Santa Catarina: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:56:37 WARN Santa Catarina: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:59:57 WARN Santa Catarina: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:59:57 WARN Santa Catarina: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 18:00:08 INFO Completed estimates for: Santa Catarina
+2020-12-02 17:42:27 INFO Initialising estimates for: São Paulo
+2020-12-02 17:51:18 WARN São Paulo: There were 3 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:51:18 WARN São Paulo: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:51:30 WARN São Paulo: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:51:30 WARN São Paulo: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:51:30 WARN São Paulo: There were 13 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:51:30 WARN São Paulo: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:51:30 WARN São Paulo: There were 3 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 17:51:30 WARN São Paulo: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 17:51:42 INFO Completed estimates for: São Paulo
+2020-12-02 17:46:03 INFO Initialising estimates for: Sergipe
+2020-12-02 18:06:53 WARN Sergipe: There were 3 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 18:06:53 WARN Sergipe: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 18:14:45 INFO Completed estimates for: Sergipe
+2020-12-02 17:46:40 INFO Initialising estimates for: Tocantins
+2020-12-02 18:00:16 WARN Tocantins: There were 8 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 18:00:16 WARN Tocantins: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 18:00:16 WARN Tocantins: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-02 18:00:16 WARN Tocantins: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-02 18:00:27 INFO Completed estimates for: Tocantins
+2020-12-03 01:34:21 INFO Completed regional estimates
+2020-12-03 01:34:21 INFO Regions with estimates: 27
+2020-12-03 01:34:21 INFO Regions with runtime errors: 0
+2020-12-03 01:34:21 INFO Producing summary
+2020-12-03 01:34:22 INFO Extracting results from: subnational/brazil/cases/national
+2020-12-03 01:34:22 WARN simpleWarning in gzfile(file, "rb"): cannot open compressed file 'subnational/brazil/cases/national/runtimes.csv/latest/summarised_estimates.rds', probable reason 'Not a directory'
+
+2020-12-03 01:34:22 INFO processing outcome log
+Already up to date.
+Loading required package: magrittr
+Loading required package: stringr
+Loading required package: purrr
+
+Attaching package: ‘purrr’
+
+The following object is masked from ‘package:magrittr’:
+
+    set_names
+
+Loading required package: tibble
+Loading required package: dplyr
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Loading required package: tidyr
+
+Attaching package: ‘tidyr’
+
+The following object is masked from ‘package:magrittr’:
+
+    extract
+
+Loading required package: countrycode
+Loading required package: rnaturalearth
+Loading required package: covidregionaldata
+Loading required package: stringr
+Loading required package: magrittr
+Loading required package: future
+Loading required package: furrr
+Loading required package: purrr
+
+Attaching package: ‘purrr’
+
+The following object is masked from ‘package:magrittr’:
+
+    set_names
+
+Loading required package: data.table
+
+Attaching package: ‘data.table’
+
+The following object is masked from ‘package:purrr’:
+
+    transpose
+
+ Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress: ──────────────────────────────────────────────────────────────── 100%
+
+  |                                                                              |                                                                      |   0%  |                                                                              |.....                                                                 |   7%
+  ordinary text without R code
+
+  |                                                                              |..........                                                            |  14%
+label: load-custom-data
+  |                                                                              |...............                                                       |  21%
+  ordinary text without R code
+
+  |                                                                              |....................                                                  |  29%
+label: load-geodata (with options) 
+List of 1
+ $ include: logi FALSE
+
+  |                                                                              |.........................                                             |  36%
+  ordinary text without R code
+
+  |                                                                              |..............................                                        |  43%
+label: load-defaults (with options) 
+List of 1
+ $ include: logi FALSE
+
+
+
+
+processing file: brazil.Rmd
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Linking to GEOS 3.6.2, GDAL 2.2.3, PROJ 4.9.3
+
+Attaching package: 'rmarkdown'
+
+The following object is masked _by_ '.GlobalEnv':
+
+    output_metadata
+
+The following object is masked from 'package:future':
+
+    run
+
+here() starts at /home/gpu/mandacaru-sub9/covid-br-epiforecasts
+Quitting from lines 29-32 (brazil.Rmd) 
+Warning messages:
+1: 'values()' is deprecated.
+Use 'value()' instead.
+See help("Deprecated") and help("future-deprecated"). 
+2: In ...future.f(...future.x_jj, ...) :
+  brazil: Error in data.table::fread(paste0(path, "summary_table.csv"), integer64 = "numeric"): File 'covid-rt-estimates/subnational/brazil/cases/summary/summary_table.csv' does not exist or is non-readable. getwd()=='/home/gpu/mandacaru-sub9/covid-br-epiforecasts/_posts/national/brazil'
+
+3: UNRELIABLE VALUE: Future (‘<none>’) unexpectedly generated random numbers without specifying argument '[future.]seed'. There is a risk that those random numbers are not statistically sound and the overall results might be invalid. To fix this, specify argument '[future.]seed', e.g. 'seed=TRUE'. This ensures that proper, parallel-safe random numbers are produced via the L'Ecuyer-CMRG method. To disable this check, use [future].seed=NULL, or set option 'future.rng.onMisuse' to "ignore". 
+$result
+$result[[1]]
+NULL
+
+
+$error
+$error[[1]]
+<simpleError in data.table::fread(paste0(path, "summary_table.csv"), integer64 = "numeric"): File 'covid-rt-estimates/subnational/brazil/cases/summary/summary_table.csv' does not exist or is non-readable. getwd()=='/home/gpu/mandacaru-sub9/covid-br-epiforecasts/_posts/national/brazil'>
+
+
+[1] FALSE
+logical(0)
+
+Rendering: ./index.Rmd
+  |                                                                              |                                                                      |   0%  |                                                                              |.......................                                               |  33%
+  ordinary text without R code
+
+  |                                                                              |...............................................                       |  67%
+label: unnamed-chunk-1
+  |                                                                              |......................................................................| 100%
+  ordinary text without R code
+
+
+/home/gpu/anaconda3/bin/pandoc +RTS -K512m -RTS index.utf8.md --to html5 --from markdown+autolink_bare_uris+tex_math_single_backslash --output index.html --lua-filter /home/gpu/R/x86_64-pc-linux-gnu-library/4.0/rmarkdown/rmarkdown/lua/pagebreak.lua --lua-filter /home/gpu/R/x86_64-pc-linux-gnu-library/4.0/rmarkdown/rmarkdown/lua/latex-div.lua --email-obfuscation none --standalone --no-highlight --template /usr/local/lib/R/site-library/distill/rmarkdown/templates/distill_article/resources/default.html --lua-filter /usr/local/lib/R/site-library/distill/rmarkdown/templates/distill_article/resources/distill.lua '--metadata=link-citations:true' --include-in-header /tmp/RtmpDJqdA0/file61ff6755f098html --include-in-header /tmp/RtmpDJqdA0/file61ff4b04b98ahtml --include-in-header /tmp/RtmpDJqdA0/file61ff248c946chtml --include-in-header /tmp/RtmpDJqdA0/file61ff5280f052html --include-in-header /tmp/RtmpDJqdA0/file61ff70904b4ehtml --include-before-body /tmp/RtmpDJqdA0/file61ff11990a5html --include-before-body /tmp/RtmpDJqdA0/file61ff49599ecfhtml --include-before-body /tmp/RtmpDJqdA0/file61ff31b2ec30html --include-after-body /tmp/RtmpDJqdA0/file61ff65e75780html --include-after-body /tmp/RtmpDJqdA0/file61ff41766ee8html --include-after-body /tmp/RtmpDJqdA0/file61ff26f7cc06html --include-in-header /tmp/RtmpDJqdA0/rmarkdown-str61ff7da198fc.html --mathjax --variable 'mathjax-url:https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML' --include-in-header /tmp/RtmpDJqdA0/file61ff5fb954a1html --filter /home/gpu/anaconda3/bin/pandoc-citeproc 
+
+Output created: docs/index.html
+
+Processing posts:
+  _posts/national/brazil 
+
+Warning messages:
+1: In readLines(con, n = 100, encoding = "UTF-8") :
+  incomplete final line found on './_posts/states/AL/footer.html'
+2: In readLines(con, n = 100, encoding = "UTF-8") :
+  incomplete final line found on './_posts/states/AL/header.html'
+Loading required package: stringr
+Loading required package: magrittr
+Loading required package: purrr
+
+Attaching package: ‘purrr’
+
+The following object is masked from ‘package:magrittr’:
+
+    set_names
+

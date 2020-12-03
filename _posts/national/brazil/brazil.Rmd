@@ -65,7 +65,9 @@ widget
 ```{r}
 case_def <- "case"
 region_path <- NULL
-summary_path <- file.path("covid-rt-estimates/subnational", folder, "cases/summary")
+#summary_path <- file.path("covid-rt-estimates/subnational", folder, "cases/summary")
+summary_path <- here("covid-rt-estimates/subnational", folder, "cases/summary")
+warning(paste("XXXXXXXXXXXXXXXXXXXXXX  PATH: ", summary_path))
 ```
 
 ```{r,  child = system.file("templates/_regional-summary.Rmd", package = "EpiNow2")}
