@@ -1226,3 +1226,542 @@ The following object is masked from ‘package:magrittr’:
 
     set_names
 
+Run for all regional locations2020-12-03 16:17:12 INFO Processing dataset for brazil
+2020-12-03 16:17:13 INFO Getting regional data
+2020-12-03 16:17:32 INFO Using 6 workers with 4 cores per worker
+2020-12-03 16:17:32 INFO Reporting estimates using data up to: 2020-11-29
+2020-12-03 16:17:33 INFO Producing estimates for: Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Distrito Federal, Espirito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Roraima, Santa Catarina, São Paulo, Sergipe, Tocantins
+2020-12-03 16:17:33 INFO Regions excluded: none
+2020-12-03 16:17:33 INFO Showing progress using progressr. Modify this behaviour using progressr::handlers.
+Timing stopped at: 1800 5.63 1046
+2020-12-03 16:17:33 INFO Initialising estimates for: Acre
+2020-12-03 16:32:50 WARN Acre: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:32:50 WARN Acre: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:33:09 WARN Acre: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:33:09 WARN Acre: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:34:47 WARN Acre: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:34:47 WARN Acre: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:34:47 WARN Acre: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:34:47 WARN Acre: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:35:03 INFO Completed estimates for: Acre
+2020-12-03 16:17:33 INFO Initialising estimates for: Alagoas
+2020-12-03 17:00:01 WARN Alagoas: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:00:01 WARN Alagoas: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:00:20 INFO Completed estimates for: Alagoas
+2020-12-03 16:17:34 INFO Initialising estimates for: Amapá
+2020-12-03 16:29:41 WARN Amapá: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:29:41 WARN Amapá: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:33:23 WARN Amapá: There were 3 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:33:23 WARN Amapá: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:33:23 WARN Amapá: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:33:23 WARN Amapá: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:33:42 INFO Completed estimates for: Amapá
+2020-12-03 16:17:35 INFO Initialising estimates for: Amazonas
+2020-12-03 16:33:45 WARN Amazonas: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:33:45 WARN Amazonas: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:35:42 WARN Amazonas: There were 20 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:35:42 WARN Amazonas: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:45:07 INFO Completed estimates for: Amazonas
+2020-12-03 16:17:37 INFO Initialising estimates for: Bahia
+2020-12-03 16:35:03 WARN Bahia: cannot open compressed file '/tmp/RtmpOB7AAn/progression235c347101ca.rds', probable reason 'No such file or directory' - gzfile, file, rb
+Timing stopped at: 1800 5.63 1046
+2020-12-03 16:17:39 INFO Initialising estimates for: Ceará
+2020-12-03 16:38:37 WARN Ceará: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:38:37 WARN Ceará: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:38:37 WARN Ceará: There were 3 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:38:37 WARN Ceará: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:38:56 INFO Completed estimates for: Ceará
+2020-12-03 16:33:46 INFO Initialising estimates for: Distrito Federal
+2020-12-03 16:38:56 WARN Distrito Federal: cannot remove file '/tmp/RtmpOB7AAn/progression2374347101ca.rds', reason 'No such file or directory' - file.remove, files
+2020-12-03 16:51:00 WARN Distrito Federal: There were 4 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:51:00 WARN Distrito Federal: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:56:24 WARN Distrito Federal: There were 7 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:56:24 WARN Distrito Federal: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:58:46 WARN Distrito Federal: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:58:46 WARN Distrito Federal: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:58:46 WARN Distrito Federal: There were 3 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:58:46 WARN Distrito Federal: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:59:05 INFO Completed estimates for: Distrito Federal
+2020-12-03 16:35:09 INFO Initialising estimates for: Espirito Santo
+2020-12-03 16:52:03 WARN Espirito Santo: There were 4 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:52:03 WARN Espirito Santo: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:52:03 WARN Espirito Santo: There were 3 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:52:03 WARN Espirito Santo: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:52:22 INFO Completed estimates for: Espirito Santo
+2020-12-03 16:35:11 INFO Initialising estimates for: Goiás
+2020-12-03 16:51:24 WARN Goiás: There were 11 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:51:24 WARN Goiás: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:51:24 WARN Goiás: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:51:24 WARN Goiás: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:51:24 WARN Goiás: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:51:24 WARN Goiás: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:51:24 WARN Goiás: There were 3 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 16:51:24 WARN Goiás: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 16:51:44 INFO Completed estimates for: Goiás
+2020-12-03 16:39:03 INFO Initialising estimates for: Maranhão
+2020-12-03 17:06:02 WARN Maranhão: There were 6 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:06:02 WARN Maranhão: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:06:14 INFO Completed estimates for: Maranhão
+2020-12-03 16:45:11 INFO Initialising estimates for: Mato Grosso
+2020-12-03 17:16:55 WARN Mato Grosso: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#bulk-ess - 
+2020-12-03 17:16:55 WARN Mato Grosso: There were 4 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:16:55 WARN Mato Grosso: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:17:15 INFO Completed estimates for: Mato Grosso
+2020-12-03 16:51:49 INFO Initialising estimates for: Mato Grosso do Sul
+2020-12-03 16:59:05 WARN Mato Grosso do Sul: cannot remove file '/tmp/RtmpOB7AAn/progression24de6c90b45a.rds', reason 'No such file or directory' - file.remove, files
+2020-12-03 17:06:08 WARN Mato Grosso do Sul: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:06:08 WARN Mato Grosso do Sul: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:14:19 INFO Completed estimates for: Mato Grosso do Sul
+2020-12-03 16:52:26 INFO Initialising estimates for: Minas Gerais
+2020-12-03 17:00:20 WARN Minas Gerais: cannot remove file '/tmp/RtmpOB7AAn/progression25396c90b45a.rds', reason 'No such file or directory' - file.remove, files
+2020-12-03 17:15:14 WARN Minas Gerais: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:15:14 WARN Minas Gerais: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:15:33 INFO Completed estimates for: Minas Gerais
+2020-12-03 16:59:09 INFO Initialising estimates for: Pará
+2020-12-03 17:19:40 WARN Pará: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#bulk-ess - 
+2020-12-03 17:19:40 WARN Pará: There were 6 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:19:40 WARN Pará: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:19:40 WARN Pará: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#bulk-ess - 
+2020-12-03 17:19:40 WARN Pará: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#tail-ess - 
+2020-12-03 17:19:40 WARN Pará: There were 10 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:19:40 WARN Pará: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:19:40 WARN Pará: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#bulk-ess - 
+2020-12-03 17:19:40 WARN Pará: There were 50 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:19:40 WARN Pará: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:19:40 WARN Pará: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#tail-ess - 
+2020-12-03 17:19:59 INFO Completed estimates for: Pará
+2020-12-03 17:00:24 INFO Initialising estimates for: Paraíba
+2020-12-03 17:14:19 WARN Paraíba: cannot remove file '/tmp/RtmpOB7AAn/progression262f50bc73f0.rds', reason 'No such file or directory' - file.remove, files
+2020-12-03 17:22:52 WARN Paraíba: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:22:52 WARN Paraíba: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:28:48 INFO Completed estimates for: Paraíba
+2020-12-03 17:06:21 INFO Initialising estimates for: Paraná
+2020-12-03 17:25:26 WARN Paraná: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:25:26 WARN Paraná: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:30:20 WARN Paraná: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:30:20 WARN Paraná: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:30:20 WARN Paraná: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:30:20 WARN Paraná: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:30:40 INFO Completed estimates for: Paraná
+2020-12-03 17:14:23 INFO Initialising estimates for: Pernambuco
+2020-12-03 17:29:19 WARN Pernambuco: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:29:19 WARN Pernambuco: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:30:05 WARN Pernambuco: There were 4 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:30:05 WARN Pernambuco: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:30:05 WARN Pernambuco: There were 5 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:30:05 WARN Pernambuco: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:30:05 WARN Pernambuco: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:30:05 WARN Pernambuco: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:30:24 INFO Completed estimates for: Pernambuco
+2020-12-03 17:15:38 INFO Initialising estimates for: Piauí
+2020-12-03 17:17:15 WARN Piauí: cannot remove file '/tmp/RtmpOB7AAn/progression25ae1e0f8451.rds', reason 'No such file or directory' - file.remove, files
+2020-12-03 17:30:24 WARN Piauí: cannot remove file '/tmp/RtmpOB7AAn/progression2803472a43e5.rds', reason 'No such file or directory' - file.remove, files
+2020-12-03 17:53:56 WARN Piauí: There were 6 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:53:56 WARN Piauí: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:54:08 INFO Completed estimates for: Piauí
+2020-12-03 17:17:20 INFO Initialising estimates for: Rio de Janeiro
+2020-12-03 17:26:52 WARN Rio de Janeiro: There were 5 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:26:52 WARN Rio de Janeiro: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:27:59 WARN Rio de Janeiro: There were 5 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:27:59 WARN Rio de Janeiro: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:28:18 INFO Completed estimates for: Rio de Janeiro
+2020-12-03 17:20:04 INFO Initialising estimates for: Rio Grande do Norte
+2020-12-03 17:35:50 WARN Rio Grande do Norte: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:35:50 WARN Rio Grande do Norte: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:44:25 WARN Rio Grande do Norte: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:44:25 WARN Rio Grande do Norte: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:44:37 INFO Completed estimates for: Rio Grande do Norte
+2020-12-03 17:28:24 INFO Initialising estimates for: Rio Grande do Sul
+2020-12-03 17:43:02 WARN Rio Grande do Sul: There were 12 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:43:02 WARN Rio Grande do Sul: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:46:30 WARN Rio Grande do Sul: There were 20 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:46:30 WARN Rio Grande do Sul: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:46:45 INFO Completed estimates for: Rio Grande do Sul
+2020-12-03 17:28:53 INFO Initialising estimates for: Rondônia
+2020-12-03 17:42:49 WARN Rondônia: There were 10 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:42:49 WARN Rondônia: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:42:49 WARN Rondônia: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#tail-ess - 
+2020-12-03 17:44:25 WARN Rondônia: There were 7 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:44:25 WARN Rondônia: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:45:45 INFO Completed estimates for: Rondônia
+2020-12-03 17:30:28 INFO Initialising estimates for: Roraima
+2020-12-03 17:46:25 WARN Roraima: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:46:25 WARN Roraima: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:46:25 WARN Roraima: There were 75 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:46:25 WARN Roraima: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:46:25 WARN Roraima: Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#bulk-ess - 
+2020-12-03 17:46:26 WARN Roraima: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#tail-ess - 
+2020-12-03 17:46:26 WARN Roraima: There were 26 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:46:26 WARN Roraima: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:46:26 WARN Roraima: Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#tail-ess - 
+2020-12-03 17:46:26 WARN Roraima: There were 12 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:46:26 WARN Roraima: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:46:38 INFO Completed estimates for: Roraima
+2020-12-03 17:30:46 INFO Initialising estimates for: Santa Catarina
+2020-12-03 17:54:11 INFO Completed estimates for: Santa Catarina
+2020-12-03 17:44:43 INFO Initialising estimates for: São Paulo
+2020-12-03 17:51:01 WARN São Paulo: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:51:01 WARN São Paulo: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:59:53 WARN São Paulo: There were 2 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:59:53 WARN São Paulo: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:59:53 WARN São Paulo: There were 1 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:59:53 WARN São Paulo: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 17:59:53 WARN São Paulo: There were 25 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-03 17:59:53 WARN São Paulo: Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-03 18:00:05 INFO Completed estimates for: São Paulo
+2020-12-03 17:45:50 INFO Initialising estimates for: Sergipe
+2020-12-03 18:23:28 INFO Completed estimates for: Sergipe
+2020-12-03 17:46:43 INFO Initialising estimates for: Tocantins
+2020-12-03 17:54:08 WARN Tocantins: cannot remove file '/tmp/RtmpOB7AAn/progression29d1347101ca.rds', reason 'No such file or directory' - file.remove, files
+2020-12-03 18:04:06 INFO Completed estimates for: Tocantins
+2020-12-03 18:23:28 INFO Completed regional estimates
+2020-12-03 18:23:28 INFO Regions with estimates: 26
+2020-12-03 18:23:28 INFO Regions with runtime errors: 1
+2020-12-03 18:23:28 INFO Runtime error in Bahia : cannot open the connection - gzfile, file, rb
+2020-12-03 18:23:28 INFO Producing summary
+2020-12-03 18:23:29 INFO Extracting results from: subnational/brazil/cases/national
+2020-12-03 18:23:29 WARN simpleWarning in gzfile(file, "rb"): cannot open compressed file 'subnational/brazil/cases/national/runtimes.csv/latest/summarised_estimates.rds', probable reason 'Not a directory'
+
+2020-12-03 18:23:31 INFO processing outcome log
+Already up to date.
+Loading required package: magrittr
+Loading required package: stringr
+Loading required package: purrr
+
+Attaching package: ‘purrr’
+
+The following object is masked from ‘package:magrittr’:
+
+    set_names
+
+Loading required package: tibble
+Loading required package: dplyr
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Loading required package: tidyr
+
+Attaching package: ‘tidyr’
+
+The following object is masked from ‘package:magrittr’:
+
+    extract
+
+Loading required package: countrycode
+Loading required package: rnaturalearth
+Loading required package: covidregionaldata
+Loading required package: stringr
+Loading required package: magrittr
+Loading required package: future
+Loading required package: furrr
+Loading required package: purrr
+
+Attaching package: ‘purrr’
+
+The following object is masked from ‘package:magrittr’:
+
+    set_names
+
+Loading required package: data.table
+
+Attaching package: ‘data.table’
+
+The following object is masked from ‘package:purrr’:
+
+    transpose
+
+ Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress: ──────────────────────────────────────────────────────────────── 100%
+
+  |                                                                              |                                                                      |   0%  |                                                                              |.....                                                                 |   7%
+  ordinary text without R code
+
+  |                                                                              |..........                                                            |  14%
+label: load-custom-data
+  |                                                                              |...............                                                       |  21%
+  ordinary text without R code
+
+  |                                                                              |....................                                                  |  29%
+label: load-geodata (with options) 
+List of 1
+ $ include: logi FALSE
+
+  |                                                                              |.........................                                             |  36%
+  ordinary text without R code
+
+  |                                                                              |..............................                                        |  43%
+label: load-defaults (with options) 
+List of 1
+ $ include: logi FALSE
+
+
+
+
+processing file: brazil.Rmd
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Linking to GEOS 3.6.2, GDAL 2.2.3, PROJ 4.9.3
+
+Attaching package: 'rmarkdown'
+
+The following object is masked _by_ '.GlobalEnv':
+
+    output_metadata
+
+The following object is masked from 'package:future':
+
+    run
+
+here() starts at /home/gpu/mandacaru-sub9/covid-br-epiforecasts
+Quitting from lines 29-32 (brazil.Rmd) 
+Warning messages:
+1: 'values()' is deprecated.
+Use 'value()' instead.
+See help("Deprecated") and help("future-deprecated"). 
+2: In ...future.f(...future.x_jj, ...) :
+  brazil: Error in data.table::fread(paste0(path, "summary_table.csv"), integer64 = "numeric"): File 'covid-rt-estimates/subnational/brazil/cases/summary/summary_table.csv' does not exist or is non-readable. getwd()=='/home/gpu/mandacaru-sub9/covid-br-epiforecasts/_posts/national/brazil'
+
+3: UNRELIABLE VALUE: Future (‘<none>’) unexpectedly generated random numbers without specifying argument '[future.]seed'. There is a risk that those random numbers are not statistically sound and the overall results might be invalid. To fix this, specify argument '[future.]seed', e.g. 'seed=TRUE'. This ensures that proper, parallel-safe random numbers are produced via the L'Ecuyer-CMRG method. To disable this check, use [future].seed=NULL, or set option 'future.rng.onMisuse' to "ignore". 
+$result
+$result[[1]]
+NULL
+
+
+$error
+$error[[1]]
+<simpleError in data.table::fread(paste0(path, "summary_table.csv"), integer64 = "numeric"): File 'covid-rt-estimates/subnational/brazil/cases/summary/summary_table.csv' does not exist or is non-readable. getwd()=='/home/gpu/mandacaru-sub9/covid-br-epiforecasts/_posts/national/brazil'>
+
+
+[1] FALSE
+logical(0)
+
+Rendering: ./index.Rmd
+  |                                                                              |                                                                      |   0%  |                                                                              |.......................                                               |  33%
+  ordinary text without R code
+
+  |                                                                              |...............................................                       |  67%
+label: unnamed-chunk-1
+  |                                                                              |......................................................................| 100%
+  ordinary text without R code
+
+
+/home/gpu/anaconda3/bin/pandoc +RTS -K512m -RTS index.utf8.md --to html5 --from markdown+autolink_bare_uris+tex_math_single_backslash --output index.html --lua-filter /home/gpu/R/x86_64-pc-linux-gnu-library/4.0/rmarkdown/rmarkdown/lua/pagebreak.lua --lua-filter /home/gpu/R/x86_64-pc-linux-gnu-library/4.0/rmarkdown/rmarkdown/lua/latex-div.lua --email-obfuscation none --standalone --no-highlight --template /usr/local/lib/R/site-library/distill/rmarkdown/templates/distill_article/resources/default.html --lua-filter /usr/local/lib/R/site-library/distill/rmarkdown/templates/distill_article/resources/distill.lua '--metadata=link-citations:true' --include-in-header /tmp/RtmpFVvlUF/file2eee1e8c8c5ahtml --include-in-header /tmp/RtmpFVvlUF/file2eee3f9d675ahtml --include-in-header /tmp/RtmpFVvlUF/file2eee16417b2chtml --include-in-header /tmp/RtmpFVvlUF/file2eee7579e814html --include-in-header /tmp/RtmpFVvlUF/file2eee439cc894html --include-before-body /tmp/RtmpFVvlUF/file2eee1ccd658html --include-before-body /tmp/RtmpFVvlUF/file2eee4f3dd791html --include-before-body /tmp/RtmpFVvlUF/file2eee1ba8efa1html --include-after-body /tmp/RtmpFVvlUF/file2eee3d2e90ehtml --include-after-body /tmp/RtmpFVvlUF/file2eee44377achtml --include-after-body /tmp/RtmpFVvlUF/file2eee57177475html --include-in-header /tmp/RtmpFVvlUF/rmarkdown-str2eee26d6ce9e.html --mathjax --variable 'mathjax-url:https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML' --include-in-header /tmp/RtmpFVvlUF/file2eee725bd3b9html --filter /home/gpu/anaconda3/bin/pandoc-citeproc 
+
+Output created: docs/index.html
+
+Processing posts:
+  _posts/national/brazil 
+
+Warning messages:
+1: In readLines(con, n = 100, encoding = "UTF-8") :
+  incomplete final line found on './_posts/states/AL/footer.html'
+2: In readLines(con, n = 100, encoding = "UTF-8") :
+  incomplete final line found on './_posts/states/AL/header.html'
+Loading required package: stringr
+Loading required package: magrittr
+Loading required package: purrr
+
+Attaching package: ‘purrr’
+
+The following object is masked from ‘package:magrittr’:
+
+    set_names
+
