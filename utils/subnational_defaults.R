@@ -21,9 +21,14 @@ library(stringr)
 library(ggplot2)
 
 # Load summary data -------------------------------------------------------
-summary_table <- data.table::fread(here::here("covid-rt-estimates", "subnational", 
-                                              folder, "cases", 
-                                              "summary", "summary_table.csv"))
+summary_table_file <- here::here("covid-rt-estimates", "subnational",
+                                              folder, "cases",
+                                              "summary", "summary_table.csv")
+print(paste("XXXXX PATH", summary_table_file))
+summary_table <- data.table::fread(summary_table_file)
+#summary_table <- data.table::fread(here::here("covid-rt-estimates", "subnational", 
+#                                              folder, "cases", 
+#                                              "summary", "summary_table.csv"))
 latest_date <- readRDS(here::here("covid-rt-estimates", "subnational", folder,
                                   "cases", "summary", "latest_date.rds"))
 

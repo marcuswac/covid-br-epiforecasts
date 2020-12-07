@@ -3450,3 +3450,155 @@ The following object is masked from ‘package:magrittr’:
 
     set_names
 
+Run for all regional locations2020-12-07 16:17:05 INFO Processing dataset for brazil
+2020-12-07 16:17:05 INFO Getting regional data
+2020-12-07 16:17:24 INFO Using 6 workers with 4 cores per worker
+2020-12-07 16:17:24 INFO Reporting estimates using data up to: 2020-12-03
+2020-12-07 16:17:24 INFO Producing estimates for: Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Distrito Federal, Espirito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Roraima, Santa Catarina, São Paulo, Sergipe, Tocantins
+2020-12-07 16:17:24 INFO Regions excluded: none
+2020-12-07 16:17:24 INFO Showing progress using progressr. Modify this behaviour using progressr::handlers.
+2020-12-07 16:52:43 WARN brazil: simpleWarning in gzfile(file, "rb"): cannot open compressed file '/tmp/RtmpKJo0tU/progression598c76eed54e.rds', probable reason 'No such file or directory'
+
+2020-12-07 16:52:43 WARN simpleWarning in gsub("~m", msg, message, fixed = TRUE): argument 'replacement' has length > 1 and only the first element will be used
+
+2020-12-07 16:52:43 INFO processing outcome log
+2020-12-07 16:52:44 ERROR Error: `false` must be NULL, not a `Date` object.
+
+Error: `false` must be NULL, not a `Date` object.
+Execution halted
+Already up to date.
+Loading required package: magrittr
+Loading required package: stringr
+Loading required package: purrr
+
+Attaching package: ‘purrr’
+
+The following object is masked from ‘package:magrittr’:
+
+    set_names
+
+Loading required package: tibble
+Loading required package: dplyr
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Loading required package: tidyr
+
+Attaching package: ‘tidyr’
+
+The following object is masked from ‘package:magrittr’:
+
+    extract
+
+Loading required package: countrycode
+Loading required package: rnaturalearth
+Loading required package: covidregionaldata
+Loading required package: stringr
+Loading required package: magrittr
+Loading required package: future
+Loading required package: furrr
+Loading required package: purrr
+
+Attaching package: ‘purrr’
+
+The following object is masked from ‘package:magrittr’:
+
+    set_names
+
+Loading required package: data.table
+
+Attaching package: ‘data.table’
+
+The following object is masked from ‘package:purrr’:
+
+    transpose
+
+ Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress:                                                                  100% Progress: ──────────────────────────────────────────────────────────────── 100%
+
+  |                                                                              |                                                                      |   0%  |                                                                              |.....                                                                 |   7%
+  ordinary text without R code
+
+  |                                                                              |..........                                                            |  14%
+label: load-custom-data
+  |                                                                              |...............                                                       |  21%
+  ordinary text without R code
+
+  |                                                                              |....................                                                  |  29%
+label: load-geodata (with options) 
+List of 1
+ $ include: logi FALSE
+
+  |                                                                              |.........................                                             |  36%
+  ordinary text without R code
+
+  |                                                                              |..............................                                        |  43%
+label: load-defaults (with options) 
+List of 1
+ $ include: logi FALSE
+
+
+
+
+processing file: brazil.Rmd
+Quitting from lines 29-32 (brazil.Rmd) 
+Warning messages:
+1: 'values()' is deprecated.
+Use 'value()' instead.
+See help("Deprecated") and help("future-deprecated"). 
+2: In ...future.f(...future.x_jj, ...) :
+  brazil: Error in library(EpiNow2): there is no package called 'EpiNow2'
+
+3: UNRELIABLE VALUE: Future (‘<none>’) unexpectedly generated random numbers without specifying argument '[future.]seed'. There is a risk that those random numbers are not statistically sound and the overall results might be invalid. To fix this, specify argument '[future.]seed', e.g. 'seed=TRUE'. This ensures that proper, parallel-safe random numbers are produced via the L'Ecuyer-CMRG method. To disable this check, use [future].seed=NULL, or set option 'future.rng.onMisuse' to "ignore". 
+$result
+$result[[1]]
+NULL
+
+
+$error
+$error[[1]]
+<packageNotFoundError in library(EpiNow2): there is no package called 'EpiNow2'>
+
+
+[1] FALSE
+logical(0)
+
+Rendering: ./index.Rmd
+  |                                                                              |                                                                      |   0%  |                                                                              |.......................                                               |  33%
+  ordinary text without R code
+
+  |                                                                              |...............................................                       |  67%
+label: unnamed-chunk-1
+  |                                                                              |......................................................................| 100%
+  ordinary text without R code
+
+
+/home/gpu/anaconda3/bin/pandoc +RTS -K512m -RTS index.utf8.md --to html5 --from markdown+autolink_bare_uris+tex_math_single_backslash --output index.html --lua-filter /home/gpu/R/x86_64-pc-linux-gnu-library/4.0/rmarkdown/rmarkdown/lua/pagebreak.lua --lua-filter /home/gpu/R/x86_64-pc-linux-gnu-library/4.0/rmarkdown/rmarkdown/lua/latex-div.lua --email-obfuscation none --standalone --variable toc-float=1 --highlight-style /home/gpu/R/x86_64-pc-linux-gnu-library/4.0/distill/rmarkdown/templates/distill_article/resources/arrow.theme --template /home/gpu/R/x86_64-pc-linux-gnu-library/4.0/distill/rmarkdown/templates/distill_article/resources/default.html '--metadata=link-citations:true' --include-in-header /tmp/Rtmpo1y9gf/file659f3a827215html --include-in-header /tmp/Rtmpo1y9gf/file659f6fc81f4ehtml --include-in-header /tmp/Rtmpo1y9gf/file659f31b3403dhtml --include-in-header /tmp/Rtmpo1y9gf/file659f51d64bafhtml --include-in-header /tmp/Rtmpo1y9gf/file659f4e2b6d09html --include-before-body /tmp/Rtmpo1y9gf/file659f77d543f4html --include-before-body /tmp/Rtmpo1y9gf/file659f352dd240html --include-before-body /tmp/Rtmpo1y9gf/file659f5046c09ahtml --include-after-body /tmp/Rtmpo1y9gf/file659f13f644ddhtml --include-after-body /tmp/Rtmpo1y9gf/file659f26f6ea48html --include-after-body /tmp/Rtmpo1y9gf/file659f66059a78html --include-in-header /tmp/Rtmpo1y9gf/rmarkdown-str659f7d6b73c4.html --mathjax --variable 'mathjax-url:https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML' --include-in-header /tmp/Rtmpo1y9gf/file659f7d3527behtml --filter /home/gpu/anaconda3/bin/pandoc-citeproc 
+
+Output created: docs/index.html
+
+Processing posts:
+  _posts/national/brazil 
+
+Error: './docs/README.html' does not exist in current working directory ('/home/gpu/mandacaru-sub9/covid-br-epiforecasts').
+In addition: Warning message:
+In normalizePath(path, winslash = winslash, mustWork = mustWork) :
+  path[1]="./docs/README.html": No such file or directory
+Execution halted
+Loading required package: stringr
+Loading required package: magrittr
+Loading required package: purrr
+
+Attaching package: ‘purrr’
+
+The following object is masked from ‘package:magrittr’:
+
+    set_names
+
