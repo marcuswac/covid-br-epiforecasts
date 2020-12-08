@@ -1,28 +1,28 @@
-region
-Acre
-Alagoas
-Amapá
-Amazonas
-Bahia
-Ceará
-Distrito Federal
-Espirito Santo
-Goiás
-Maranhão
-Mato Grosso
-Mato Grosso do Sul
-Minas Gerais
-Pará
-Paraíba
-Paraná
-Pernambuco
-Piauí
-Rio de Janeiro
-Rio Grande do Norte
-Rio Grande do Sul
-Rondônia
-Roraima
-Santa Catarina
-São Paulo
-Sergipe
-Tocantins
+region,time
+Acre,8.5
+Alagoas,14.4
+Amapá,9.9
+Amazonas,7.6
+Bahia,8.5
+Ceará,9.4
+Distrito Federal,11.2
+Espirito Santo,8.4
+Goiás,6.8
+Maranhão,6.9
+Mato Grosso,7.6
+Mato Grosso do Sul,11.3
+Minas Gerais,10
+Pará,16.2
+Paraíba,9.3
+Paraná,9.2
+Pernambuco,9.7
+Piauí,9.3
+Rio de Janeiro,5
+Rio Grande do Norte,15.2
+Rio Grande do Sul,8
+Rondônia,9.8
+Roraima,6.4
+Santa Catarina,10.4
+São Paulo,6.4
+Sergipe,13.1
+Tocantins,8.3
