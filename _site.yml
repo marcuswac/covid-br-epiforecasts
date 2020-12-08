@@ -16,7 +16,7 @@ navbar:
   right:
     - text: "About"
       href: index.html
-    - text: "Brasil"
+    - text: "Brazil"
       href: posts/national/brazil/index.html
     - text: "Cities"
       menu:

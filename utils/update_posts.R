@@ -33,7 +33,8 @@ render_by_path <-  function(post) {
 }
 
 ## Render posts in parallel
-failed_to_render <- furrr::future_map(posts, render_by_path, .progress = TRUE)
+#failed_to_render <- furrr::future_map(posts, render_by_path, .progress = TRUE)
+failed_to_render <- purrr::map(posts, render_by_path)
 failed_to_render <- purrr::transpose(failed_to_render)
 
 ## Try to render failed posts again (in serial)

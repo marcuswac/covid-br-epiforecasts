@@ -24,7 +24,7 @@ library(ggplot2)
 summary_table_file <- here::here("covid-rt-estimates", "subnational",
                                               folder, "cases",
                                               "summary", "summary_table.csv")
-print(paste("XXXXX PATH", summary_table_file))
+warning(paste("XXXXX PATH", summary_table_file))
 summary_table <- data.table::fread(summary_table_file)
 #summary_table <- data.table::fread(here::here("covid-rt-estimates", "subnational", 
 #                                              folder, "cases", 
@@ -39,7 +39,8 @@ if (!exists("region_var")) {
 
   # Read in each summary folder
 #base_path <- "https://raw.githubusercontent.com/epiforecasts/covid-rt-estimates/master/"
-base_path <- "covid-rt-estimates/"
+base_path <- here("covid-rt-estimates/")
+warning(paste("YYYYY", base_path))
 
 read_in_rt <- function(data = "cases") { 
   RtD3::readInEpiNow2(path = paste0(base_path, "subnational/", folder, "/", data, "/summary"),
