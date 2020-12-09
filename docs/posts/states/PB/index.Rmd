@@ -1,0 +1,118 @@
+---
+title: "Subregional Estimates of Rt for Covid-19 in Brazil"
+author: "[EpiForecasts](https://epiforecasts.io/), and the [Centre for Mathematical Modelling of Infectious Diseases](https://cmmid.github.io/topics/covid19/), London School of Hygiene & Tropical Medicine"
+date: "`r format(Sys.Date(), format = '%B %d, %Y')`"
+output:
+  html_document:
+    theme: cosmo
+    toc: true
+    toc_float: true
+    toc_depth: 4
+    includes:
+      before_body: header.html
+      after_body: footer.html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r, include = FALSE}
+library(RtD3)
+library(here)
+library(data.table)
+library(sf)
+library(geobr)
+library(dplyr)
+```
+
+<style>
+#TOC {
+  top: 1%;
+  opacity: 0.75;
+}
+#TOC:hover {
+  opacity: 1;
+}
+</style>
+
+***
+
+## About
+
+City level estimates of the time-varying reproduction number of Covid-19 produced using [EpiNow2](epiforecasts.io/EpiNow2) based on data from [brazil.io](https://brasil.io/home/). Regional estimates for Brazil (along with a national estimate) are available [here](https://epiforecasts.io/covid/posts/national/brazil/). Detail of the method used is given [here](https://epiforecasts.io/covid/methods.html), though the estimates shown here were derived using an approximate approach (variational inference) rather than the exact method used on [epiforecasts.io](https://epiforecasts.io/covid) and therefore should only be considered indicative. The code and data supporting these estimates is available [here](https://github.com/epiforecasts/covid-rt-brazil-subregional).
+
+***
+
+## Data sources
+
+* Case data from the last 10 weeks is extracted from: [brazil.io](https://brasil.io/home/)
+
+* Estimates were only produced for cities with at least 200 cases, and 30 days of data, in the last 10 weeks. All time series were truncated by 3 days to account for delayed reporting (the delay from original report to reporting in this dataset not the adjusted for delay from onset to original report). Estimates are only shown for the last 8 weeks of data combined with a 2 week indicative forecast.
+
+* Data on the delay from onset to report were extracted for Brazil from here: [github.com/beoutbreakprepared/nCoV2019](https://github.com/beoutbreakprepared/nCoV2019/)
+
+* Estimates for the incubation period and the generation time were based on those used here: [epiforecasts.io](https://epiforecasts.io/covid/methods.html)
+
+***
+
+<!-- ## Summary -->
+
+```{r control-params}
+# Get today
+#today <- Sys.Date()
+today <- "latest"
+```
+
+```{r, fig.height = 16, out.width = "100%", message = FALSE, warning = FALSE, eval = FALSE}
+# Load shapefile
+#geoData <- readRDS(here::here("data", "shapefile", "brazil-admin-2.rds"))
+
+# Load case data
+cases <- data.table::fread(here::here("data", "cases", paste0(today, ".csv")))
+state <- cases$state[1]
+cases <- cases[, .(sovereignt = city, code = city_ibge_code)][,
+                 .SD[1,], by = code]
+
+# Link shapefile with case data to get region
+geoData <- read_municipality(code_muni = state, year = 2018, showProgress = FALSE) %>%
+  rename(code = code_muni,
+         #sovereignt = name_muni,
+	 geometry = geom)
+geoData <- merge(geoData, cases, by = "code", all.x = TRUE)
+# Load estimates
+rtData <- list("Cases" = RtD3::readInEpiNow2(path = here::here("data", "rt", today)))
+
+highest_city <- rtData$Cases$obsCasesData %>%
+	group_by(region) %>%
+	summarise(total = sum(confirm)) %>%
+	arrange(desc(total)) %>%
+	slice(1) %>%
+	pull(region)
+
+# Make interactive widget
+RtD3::summaryWidget(rtData = rtData,
+                    geoData = sf::st_sf(geoData),
+                    activeArea = highest_city,
+		    dryRun = TRUE, 
+                    downloadUrl = "https://github.com/epiforecasts/covid-rt-brazil-subregional")
+```
+
+***
+
+## Regional Breakdown
+
+```{r}
+latest_date <- readRDS(here::here("data","rt", today, "latest_date.rds"))
+case_def <- "case"
+region_path <- NULL
+standalone <- TRUE
+interactive <- TRUE
+report_forecast <- TRUE
+summary_path <- file.path("data","rt", today)
+```
+
+```{r,  child = system.file("templates/_regional-summary.Rmd", package = "EpiNow2")}
+```
+
+***
