@@ -1,31 +1,4 @@
 region,date,confirm
-Acre,2020-09-11,127
-Alagoas,2020-09-11,110
-Amapá,2020-09-11,136
-Amazonas,2020-09-11,763
-Bahia,2020-09-11,2182
-Ceará,2020-09-11,1174
-Distrito Federal,2020-09-11,918
-Espirito Santo,2020-09-11,676
-Goiás,2020-09-11,3656
-Maranhão,2020-09-11,1026
-Mato Grosso,2020-09-11,1683
-Mato Grosso do Sul,2020-09-11,367
-Minas Gerais,2020-09-11,3616
-Pará,2020-09-11,1227
-Paraíba,2020-09-11,523
-Paraná,2020-09-11,2335
-Pernambuco,2020-09-11,1024
-Piauí,2020-09-11,860
-Rio de Janeiro,2020-09-11,5640
-Rio Grande do Norte,2020-09-11,167
-Rio Grande do Sul,2020-09-11,2083
-Rondônia,2020-09-11,418
-Roraima,2020-09-11,246
-Santa Catarina,2020-09-11,1525
-São Paulo,2020-09-11,8055
-Sergipe,2020-09-11,259
-Tocantins,2020-09-11,737
 Acre,2020-09-12,144
 Alagoas,2020-09-12,588
 Amapá,2020-09-12,124
@@ -2294,3 +2267,30 @@ Santa Catarina,2020-12-04,6174
 São Paulo,2020-12-04,8237
 Sergipe,2020-12-04,75
 Tocantins,2020-12-04,305
+Acre,2020-12-05,125
+Alagoas,2020-12-05,402
+Amapá,2020-12-05,302
+Amazonas,2020-12-05,706
+Bahia,2020-12-05,2310
+Ceará,2020-12-05,575
+Distrito Federal,2020-12-05,595
+Espirito Santo,2020-12-05,1843
+Goiás,2020-12-05,147
+Maranhão,2020-12-05,220
+Mato Grosso,2020-12-05,385
+Mato Grosso do Sul,2020-12-05,496
+Minas Gerais,2020-12-05,5223
+Pará,2020-12-05,504
+Paraíba,2020-12-05,709
+Paraná,2020-12-05,2860
+Pernambuco,2020-12-05,1518
+Piauí,2020-12-05,445
+Rio de Janeiro,2020-12-05,2626
+Rio Grande do Norte,2020-12-05,0
+Rio Grande do Sul,2020-12-05,4766
+Rondônia,2020-12-05,344
+Roraima,2020-12-05,220
+Santa Catarina,2020-12-05,3851
+São Paulo,2020-12-05,8938
+Sergipe,2020-12-05,61
+Tocantins,2020-12-05,111

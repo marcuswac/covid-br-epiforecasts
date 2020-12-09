@@ -5714,3 +5714,219 @@ The following object is masked from ‘package:magrittr’:
 
     set_names
 
+Run for all regional locations2020-12-08 21:00:06 INFO Processing dataset for brazil
+2020-12-08 21:00:06 INFO Getting regional data
+2020-12-08 21:00:28 INFO Using 6 workers with 4 cores per worker
+2020-12-08 21:00:28 INFO Producing following optional outputs: plots, latest
+2020-12-08 21:00:28 INFO Reporting estimates using data up to: 2020-12-05
+2020-12-08 21:00:28 INFO Saving estimates to : subnational/brazil/cases/national
+2020-12-08 21:00:28 INFO Producing estimates for: Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Distrito Federal, Espirito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Roraima, Santa Catarina, São Paulo, Sergipe, Tocantins
+2020-12-08 21:00:28 INFO Regions excluded: none
+2020-12-08 21:00:28 INFO Showing progress using progressr.
+2020-12-08 21:00:29 INFO Initialising estimates for: Acre
+2020-12-08 21:10:27 WARN Acre (chain: 1): There were 107 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:10:27 WARN Acre (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:11:18 INFO Completed estimates for: Acre
+2020-12-08 21:00:29 INFO Initialising estimates for: Alagoas
+2020-12-08 21:09:13 WARN Alagoas (chain: 1): There were 107 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:09:13 WARN Alagoas (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:09:46 INFO Completed estimates for: Alagoas
+2020-12-08 21:00:30 INFO Initialising estimates for: Amapá
+2020-12-08 21:10:18 WARN Amapá (chain: 1): There were 26 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:10:18 WARN Amapá (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:11:15 INFO Completed estimates for: Amapá
+2020-12-08 21:00:31 INFO Initialising estimates for: Amazonas
+2020-12-08 21:09:24 WARN Amazonas (chain: 1): There were 45 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:09:24 WARN Amazonas (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:10:01 INFO Completed estimates for: Amazonas
+2020-12-08 21:00:33 INFO Initialising estimates for: Bahia
+2020-12-08 21:08:14 WARN Bahia (chain: 1): There were 89 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:08:14 WARN Bahia (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:08:47 INFO Completed estimates for: Bahia
+2020-12-08 21:00:35 INFO Initialising estimates for: Ceará
+2020-12-08 21:10:26 WARN Ceará (chain: 1): There were 157 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:10:26 WARN Ceará (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:10:32 WARN Ceará (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#bulk-ess - 
+2020-12-08 21:10:36 WARN Ceará (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#tail-ess - 
+2020-12-08 21:11:00 INFO Completed estimates for: Ceará
+2020-12-08 21:08:51 INFO Initialising estimates for: Distrito Federal
+2020-12-08 21:18:32 WARN Distrito Federal (chain: 1): There were 64 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:18:32 WARN Distrito Federal (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:19:06 INFO Completed estimates for: Distrito Federal
+2020-12-08 21:09:51 INFO Initialising estimates for: Espirito Santo
+2020-12-08 21:18:38 WARN Espirito Santo (chain: 1): There were 31 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:18:38 WARN Espirito Santo (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:19:21 INFO Completed estimates for: Espirito Santo
+2020-12-08 21:10:05 INFO Initialising estimates for: Goiás
+2020-12-08 21:16:33 WARN Goiás (chain: 1): There were 66 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:16:33 WARN Goiás (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:17:28 INFO Completed estimates for: Goiás
+2020-12-08 21:11:05 INFO Initialising estimates for: Maranhão
+2020-12-08 21:18:02 WARN Maranhão (chain: 1): There were 41 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:18:02 WARN Maranhão (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:18:39 INFO Completed estimates for: Maranhão
+2020-12-08 21:11:20 INFO Initialising estimates for: Mato Grosso
+2020-12-08 21:18:16 WARN Mato Grosso (chain: 1): There were 79 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:18:16 WARN Mato Grosso (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:18:54 INFO Completed estimates for: Mato Grosso
+2020-12-08 21:11:22 INFO Initialising estimates for: Mato Grosso do Sul
+2020-12-08 21:25:58 WARN Mato Grosso do Sul (chain: 1): There were 37 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:25:58 WARN Mato Grosso do Sul (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:26:38 INFO Completed estimates for: Mato Grosso do Sul
+2020-12-08 21:17:35 INFO Initialising estimates for: Minas Gerais
+2020-12-08 21:25:58 WARN Minas Gerais (chain: 1): There were 28 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:25:58 WARN Minas Gerais (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:26:35 INFO Completed estimates for: Minas Gerais
+2020-12-08 21:18:43 INFO Initialising estimates for: Pará
+2020-12-08 21:32:07 WARN Pará (chain: 1): There were 134 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:32:07 WARN Pará (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:32:48 INFO Completed estimates for: Pará
+2020-12-08 21:19:01 INFO Initialising estimates for: Paraíba
+2020-12-08 21:26:39 WARN Paraíba (chain: 1): There were 93 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:26:39 WARN Paraíba (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:27:14 INFO Completed estimates for: Paraíba
+2020-12-08 21:19:10 INFO Initialising estimates for: Paraná
+2020-12-08 21:33:30 WARN Paraná (chain: 1): There were 83 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:33:30 WARN Paraná (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:34:05 INFO Completed estimates for: Paraná
+2020-12-08 21:19:28 INFO Initialising estimates for: Pernambuco
+2020-12-08 21:27:25 WARN Pernambuco (chain: 1): There were 38 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:27:25 WARN Pernambuco (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:28:17 INFO Completed estimates for: Pernambuco
+2020-12-08 21:26:40 INFO Initialising estimates for: Piauí
+2020-12-08 21:35:46 WARN Piauí (chain: 1): There were 98 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:35:46 WARN Piauí (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:36:41 INFO Completed estimates for: Piauí
+2020-12-08 21:26:42 INFO Initialising estimates for: Rio de Janeiro
+2020-12-08 21:33:09 WARN Rio de Janeiro (chain: 1): There were 40 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:33:09 WARN Rio de Janeiro (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:33:46 INFO Completed estimates for: Rio de Janeiro
+2020-12-08 21:27:18 INFO Initialising estimates for: Rio Grande do Norte
+2020-12-08 21:36:28 WARN Rio Grande do Norte (chain: 1): There were 333 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:36:28 WARN Rio Grande do Norte (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:37:27 INFO Completed estimates for: Rio Grande do Norte
+2020-12-08 21:28:22 INFO Initialising estimates for: Rio Grande do Sul
+2020-12-08 21:35:38 WARN Rio Grande do Sul (chain: 1): There were 61 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:35:38 WARN Rio Grande do Sul (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:36:36 INFO Completed estimates for: Rio Grande do Sul
+2020-12-08 21:32:53 INFO Initialising estimates for: Rondônia
+2020-12-08 21:42:04 WARN Rondônia (chain: 1): There were 115 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:42:04 WARN Rondônia (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:42:37 INFO Completed estimates for: Rondônia
+2020-12-08 21:33:53 INFO Initialising estimates for: Roraima
+2020-12-08 21:40:19 WARN Roraima (chain: 1): There were 47 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:40:19 WARN Roraima (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:40:53 INFO Completed estimates for: Roraima
+2020-12-08 21:34:10 INFO Initialising estimates for: Santa Catarina
+2020-12-08 21:48:55 WARN Santa Catarina (chain: 1): There were 91 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:48:55 WARN Santa Catarina (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:49:04 WARN Santa Catarina (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#tail-ess - 
+2020-12-08 21:49:27 INFO Completed estimates for: Santa Catarina
+2020-12-08 21:36:43 INFO Initialising estimates for: São Paulo
+2020-12-08 21:42:58 WARN São Paulo (chain: 1): There were 50 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:42:58 WARN São Paulo (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:43:32 INFO Completed estimates for: São Paulo
+2020-12-08 21:36:45 INFO Initialising estimates for: Sergipe
+2020-12-08 21:49:53 WARN Sergipe (chain: 1): There were 79 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:49:53 WARN Sergipe (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:50:24 INFO Completed estimates for: Sergipe
+2020-12-08 21:37:34 INFO Initialising estimates for: Tocantins
+2020-12-08 21:46:14 WARN Tocantins (chain: 1): There were 87 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-08 21:46:14 WARN Tocantins (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-08 21:46:24 WARN Tocantins (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#tail-ess - 
+2020-12-08 21:46:48 INFO Completed estimates for: Tocantins
+2020-12-08 21:50:24 INFO Completed regional estimates
+2020-12-08 21:50:24 INFO Regions with estimates: 27
+2020-12-08 21:50:24 INFO Regions with runtime errors: 0
+2020-12-08 21:50:24 INFO Saving timings information to : subnational/brazil/cases/national
+2020-12-08 21:50:24 INFO Saving summary to : subnational/brazil/cases/summary
+2020-12-08 21:50:24 INFO Extracting results from: subnational/brazil/cases/national
