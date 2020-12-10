@@ -138,6 +138,7 @@ regional_summary <- function(regional_output = NULL,
   cases_reported_estimated <- rbind(cases_reported_estimated, sum_key_measures$cases_by_report,
 				    fill = TRUE) 
   setorderv(cases_reported_estimated, cols = c("region", "date"))
+  cases_reported_estimated[startsWith(type, "Estimate"), type := "Nowcast"]
   
   if (!is.null(summary_dir)) {
     data.table::fwrite(summarised_results$table, file.path(summary_dir, "summary_table.csv"))

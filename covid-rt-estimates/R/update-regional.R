@@ -118,19 +118,19 @@ update_regional <- function(location, excludes, includes, force, max_execution_t
       }
     }
     # Run Rt estimation -------------------------------------------------------
-    futile.logger::flog.trace("calling regional_epinow")
-    out <- futile.logger::ftry(
-      regional_epinow(reported_cases = cases,
-                      generation_time = location$generation_time,
-                      delays = delay_opts(location$incubation_period, location$reporting_delay),
-                      rt = rt_opts(prior = list(mean = 1, sd = 0.2)),
-                      stan = stan_opts(samples = 4000, warmup = 400, cores = no_cores,
-                                       chains = 4, control = list(adapt_delta = 0.95),
-                                       future = FALSE, max_execution_time = max_execution_time),
-                      target_folder = location$target_folder,
-                      output = c("plots", "latest"),
-                      non_zero_points = 14, horizon = 14, logs = NULL), silent = TRUE
-    )
+    #futile.logger::flog.trace("calling regional_epinow")
+    #out <- futile.logger::ftry(
+    #regional_epinow(reported_cases = cases,
+    #                  generation_time = location$generation_time,
+    #                  delays = delay_opts(location$incubation_period, location$reporting_delay),
+    #                  rt = rt_opts(prior = list(mean = 1, sd = 0.2)),
+    #                  stan = stan_opts(samples = 4000, warmup = 400, cores = no_cores,
+    #                                   chains = 4, control = list(adapt_delta = 0.95),
+    #                                   future = FALSE, max_execution_time = max_execution_time),
+    #                  target_folder = location$target_folder,
+    #                  output = c("plots", "latest"),
+    #                  non_zero_points = 14, horizon = 14, logs = NULL), silent = TRUE
+    #)
     futile.logger::flog.debug("resetting future plan to sequential")
     future::plan("sequential")
 
