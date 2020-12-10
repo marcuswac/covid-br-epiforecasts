@@ -5,9 +5,10 @@ suppressPackageStartupMessages(require(data.table, quietly = TRUE))
 suppressPackageStartupMessages(require(future, quietly = TRUE))
 suppressPackageStartupMessages(require(lubridate, quietly = TRUE))
 
+source(here::here("R", "regional_summary.R"))
+
 # Load utils --------------------------------------------------------------
 if (!exists("setup_future", mode = "function")) source(here::here("R", "utils.R"))
-
 
 #' Update Regional
 #'
