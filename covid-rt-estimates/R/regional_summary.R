@@ -285,6 +285,7 @@ summarise_key_measures <- function(regional_results = NULL,
   sum_est <- timeseries$estimates$summarised
   # clean and save Rt estimates
   out$rt <- summarise_variable(sum_est[variable == "R"][, variable := NULL], 4)
+  out$rt[startsWith(type, "estimate"), type := "estimate"]
   #setorder(out$rt, date, region)
   save_variable(out$rt, "rt")
 
