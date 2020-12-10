@@ -21,6 +21,10 @@ navbar:
     - text: "Cities"
       menu:
        - text: "States with municipality estimates"
+       - text: "Alagoas"
+         href: https://marcuswac.github.io/covid-rt-brazil-subregional/states/AL/
+       - text: "Paraíba"
+         href: https://marcuswac.github.io/covid-rt-brazil-subregional/states/PB/
     - icon: fab fa-github
       href: https://github.com/epiforecasts/covid
     - icon: fa fa-rss
