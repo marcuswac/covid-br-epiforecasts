@@ -23,12 +23,26 @@ navbar:
        - text: "States with municipality estimates"
        - text: "Alagoas"
          href: https://marcuswac.github.io/covid-rt-brazil-subregional/states/AL/
+       - text: "Alagoas"
+         href: https://marcuswac.github.io/covid-rt-brazil-subregional/states/AL/
+       - text: "Bahia"
+         href: https://marcuswac.github.io/covid-rt-brazil-subregional/states/BA/
+       - text: "Ceará"
+         href: https://marcuswac.github.io/covid-rt-brazil-subregional/states/CE/
+       - text: "Maranhão"
+         href: https://marcuswac.github.io/covid-rt-brazil-subregional/states/MA/
        - text: "Paraíba"
          href: https://marcuswac.github.io/covid-rt-brazil-subregional/states/PB/
+       - text: "Pernambuco"
+         href: https://marcuswac.github.io/covid-rt-brazil-subregional/states/PE/
+       - text: "Piauí"
+         href: https://marcuswac.github.io/covid-rt-brazil-subregional/states/PI/
+       - text: "Rio Grande do Norte"
+         href: https://marcuswac.github.io/covid-rt-brazil-subregional/states/RN/
+       - text: "Sergipe"
+         href: https://marcuswac.github.io/covid-rt-brazil-subregional/states/SE/
     - icon: fab fa-github
-      href: https://github.com/epiforecasts/covid
-    - icon: fa fa-rss
-      href: reports.xml
+      href: https://github.com/marcuswac/covid-br-epiforecasts 
 collections:
   posts:
     feed_items_max: false
