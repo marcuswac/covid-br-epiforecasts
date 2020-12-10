@@ -9,7 +9,7 @@ bibliography: library.bib
 title <- FALSE
 ```
 
-This page was adapted from [EpiForecasts](https://epiforecasts.io/covid) to report COVID-19 estimates in Brazilian states and municipalities. You can find the original website in: https://epiforecasts.io/covid and the original source code in https://github.com/marcuswac/covid-br-epiforecasts
+This page was adapted from [EpiForecasts](https://epiforecasts.io/covid) to report COVID-19 estimates in Brazilian states and municipalities. You can find the original website in: https://epiforecasts.io/covid and the original source code in https://github.com/epiforecasts/covid/ 
 
 ### Reports available:
 
