@@ -1,31 +1,4 @@
 region,date,confirm
-Acre,2020-09-29,145
-Alagoas,2020-09-29,156
-Amapá,2020-09-29,119
-Amazonas,2020-09-29,1256
-Bahia,2020-09-29,1623
-Ceará,2020-09-29,674
-Distrito Federal,2020-09-29,812
-Espirito Santo,2020-09-29,918
-Goiás,2020-09-29,2927
-Maranhão,2020-09-29,669
-Mato Grosso,2020-09-29,1350
-Mato Grosso do Sul,2020-09-29,743
-Minas Gerais,2020-09-29,2154
-Pará,2020-09-29,1274
-Paraíba,2020-09-29,667
-Paraná,2020-09-29,1316
-Pernambuco,2020-09-29,1229
-Piauí,2020-09-29,859
-Rio de Janeiro,2020-09-29,1693
-Rio Grande do Norte,2020-09-29,420
-Rio Grande do Sul,2020-09-29,2475
-Rondônia,2020-09-29,287
-Roraima,2020-09-29,264
-Santa Catarina,2020-09-29,1195
-São Paulo,2020-09-29,6377
-Sergipe,2020-09-29,108
-Tocantins,2020-09-29,1138
 Acre,2020-09-30,192
 Alagoas,2020-09-30,330
 Amapá,2020-09-30,200
@@ -2154,7 +2127,7 @@ Rio de Janeiro,2020-12-17,3493
 Rio Grande do Norte,2020-12-17,556
 Rio Grande do Sul,2020-12-17,6112
 Rondônia,2020-12-17,466
-Roraima,2020-12-17,0
+Roraima,2020-12-17,207
 Santa Catarina,2020-12-17,5538
 São Paulo,2020-12-17,20303
 Sergipe,2020-12-17,558
@@ -2181,7 +2154,7 @@ Rio de Janeiro,2020-12-18,3601
 Rio Grande do Norte,2020-12-18,747
 Rio Grande do Sul,2020-12-18,5721
 Rondônia,2020-12-18,547
-Roraima,2020-12-18,382
+Roraima,2020-12-18,175
 Santa Catarina,2020-12-18,5160
 São Paulo,2020-12-18,9922
 Sergipe,2020-12-18,104
@@ -2294,3 +2267,30 @@ Santa Catarina,2020-12-22,4671
 São Paulo,2020-12-22,10714
 Sergipe,2020-12-22,592
 Tocantins,2020-12-22,306
+Acre,2020-12-23,85
+Alagoas,2020-12-23,433
+Amapá,2020-12-23,226
+Amazonas,2020-12-23,862
+Bahia,2020-12-23,3090
+Ceará,2020-12-23,635
+Distrito Federal,2020-12-23,525
+Espirito Santo,2020-12-23,1734
+Goiás,2020-12-23,1205
+Maranhão,2020-12-23,219
+Mato Grosso,2020-12-23,1061
+Mato Grosso do Sul,2020-12-23,1402
+Minas Gerais,2020-12-23,6519
+Pará,2020-12-23,883
+Paraíba,2020-12-23,928
+Paraná,2020-12-23,3293
+Pernambuco,2020-12-23,1915
+Piauí,2020-12-23,545
+Rio de Janeiro,2020-12-23,2975
+Rio Grande do Norte,2020-12-23,912
+Rio Grande do Sul,2020-12-23,98
+Rondônia,2020-12-23,739
+Roraima,2020-12-23,198
+Santa Catarina,2020-12-23,3796
+São Paulo,2020-12-23,10383
+Sergipe,2020-12-23,655
+Tocantins,2020-12-23,363

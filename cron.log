@@ -16000,3 +16000,672 @@ The following object is masked from ‘package:magrittr’:
 
     set_names
 
+Run for all regional locations2020-12-26 21:00:06 INFO Processing dataset for brazil
+2020-12-26 21:00:06 INFO Getting regional data
+2020-12-26 21:00:28 INFO Using 6 workers with 4 cores per worker
+2020-12-26 21:00:28 INFO Producing following optional outputs: plots, latest
+2020-12-26 21:00:28 INFO Reporting estimates using data up to: 2020-12-23
+2020-12-26 21:00:28 INFO Saving estimates to : subnational/brazil/cases/national
+2020-12-26 21:00:28 INFO Producing estimates for: Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Distrito Federal, Espirito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Roraima, Santa Catarina, São Paulo, Sergipe, Tocantins
+2020-12-26 21:00:28 INFO Regions excluded: none
+2020-12-26 21:00:28 INFO Showing progress using progressr.
+2020-12-26 21:00:29 INFO Initialising estimates for: Acre
+2020-12-26 21:07:42 WARN Acre (chain: 1): There were 83 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:07:42 WARN Acre (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:08:15 INFO Completed estimates for: Acre
+2020-12-26 21:00:29 INFO Initialising estimates for: Alagoas
+2020-12-26 21:13:32 WARN Alagoas (chain: 1): There were 27 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:13:32 WARN Alagoas (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:14:11 INFO Completed estimates for: Alagoas
+2020-12-26 21:00:30 INFO Initialising estimates for: Amapá
+2020-12-26 21:09:05 WARN Amapá (chain: 1): There were 16 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:09:05 WARN Amapá (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:10:03 INFO Completed estimates for: Amapá
+2020-12-26 21:00:31 INFO Initialising estimates for: Amazonas
+2020-12-26 21:07:16 WARN Amazonas (chain: 1): There were 29 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:07:16 WARN Amazonas (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:07:50 INFO Completed estimates for: Amazonas
+2020-12-26 21:00:33 INFO Initialising estimates for: Bahia
+2020-12-26 21:11:16 WARN Bahia (chain: 1): There were 76 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:11:16 WARN Bahia (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:12:14 INFO Completed estimates for: Bahia
+2020-12-26 21:00:35 INFO Initialising estimates for: Ceará
+2020-12-26 21:07:31 WARN Ceará (chain: 1): There were 131 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:07:31 WARN Ceará (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:07:40 WARN Ceará (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#tail-ess - 
+2020-12-26 21:08:05 INFO Completed estimates for: Ceará
+2020-12-26 21:07:55 INFO Initialising estimates for: Distrito Federal
+2020-12-26 21:19:12 WARN Distrito Federal (chain: 1): There were 50 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:19:12 WARN Distrito Federal (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:20:10 INFO Completed estimates for: Distrito Federal
+2020-12-26 21:08:09 INFO Initialising estimates for: Espirito Santo
+2020-12-26 21:17:49 WARN Espirito Santo (chain: 1): There were 17 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:17:49 WARN Espirito Santo (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:18:32 INFO Completed estimates for: Espirito Santo
+2020-12-26 21:08:20 INFO Initialising estimates for: Goiás
+2020-12-26 21:14:46 WARN Goiás (chain: 1): There were 116 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:14:46 WARN Goiás (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:15:43 INFO Completed estimates for: Goiás
+2020-12-26 21:10:10 INFO Initialising estimates for: Maranhão
+2020-12-26 21:18:07 WARN Maranhão (chain: 1): There were 58 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:18:07 WARN Maranhão (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:19:00 INFO Completed estimates for: Maranhão
+2020-12-26 21:12:19 INFO Initialising estimates for: Mato Grosso
+2020-12-26 21:19:43 WARN Mato Grosso (chain: 1): There were 978 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:19:43 WARN Mato Grosso (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:19:49 WARN Mato Grosso (chain: 1): The largest R-hat is 1.59, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#r-hat - 
+2020-12-26 21:19:59 WARN Mato Grosso (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#bulk-ess - 
+2020-12-26 21:20:07 WARN Mato Grosso (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#tail-ess - 
+2020-12-26 21:20:50 INFO Completed estimates for: Mato Grosso
+2020-12-26 21:14:17 INFO Initialising estimates for: Mato Grosso do Sul
+2020-12-26 21:21:35 WARN Mato Grosso do Sul (chain: 1): There were 67 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:21:35 WARN Mato Grosso do Sul (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:22:18 INFO Completed estimates for: Mato Grosso do Sul
+2020-12-26 21:15:48 INFO Initialising estimates for: Minas Gerais
+2020-12-26 21:25:30 WARN Minas Gerais (chain: 1): There were 28 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:25:30 WARN Minas Gerais (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:26:12 INFO Completed estimates for: Minas Gerais
+2020-12-26 21:18:37 INFO Initialising estimates for: Pará
+2020-12-26 21:25:50 WARN Pará (chain: 1): There were 78 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:25:50 WARN Pará (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:26:05 WARN Pará (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#tail-ess - 
+2020-12-26 21:26:34 INFO Completed estimates for: Pará
+2020-12-26 21:19:06 INFO Initialising estimates for: Paraíba
+2020-12-26 21:25:18 WARN Paraíba (chain: 1): There were 60 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:25:18 WARN Paraíba (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:26:16 INFO Completed estimates for: Paraíba
+2020-12-26 21:20:15 INFO Initialising estimates for: Paraná
+2020-12-26 21:31:12 WARN Paraná (chain: 1): There were 83 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:31:12 WARN Paraná (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:31:49 INFO Completed estimates for: Paraná
+2020-12-26 21:20:55 INFO Initialising estimates for: Pernambuco
+2020-12-26 21:27:55 WARN Pernambuco (chain: 1): There were 43 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:27:55 WARN Pernambuco (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:28:54 INFO Completed estimates for: Pernambuco
+2020-12-26 21:22:22 INFO Initialising estimates for: Piauí
+2020-12-26 21:32:57 WARN Piauí (chain: 1): There were 214 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:32:57 WARN Piauí (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:33:03 WARN Piauí (chain: 1): Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#bulk-ess - 
+2020-12-26 21:33:06 WARN Piauí (chain: 1): Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+http://mc-stan.org/misc/warnings.html#tail-ess - 
+2020-12-26 21:33:31 INFO Completed estimates for: Piauí
+2020-12-26 21:26:19 INFO Initialising estimates for: Rio de Janeiro
+2020-12-26 21:32:46 WARN Rio de Janeiro (chain: 1): There were 42 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:32:46 WARN Rio de Janeiro (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:33:35 INFO Completed estimates for: Rio de Janeiro
+2020-12-26 21:26:22 INFO Initialising estimates for: Rio Grande do Norte
+2020-12-26 21:35:24 WARN Rio Grande do Norte (chain: 1): There were 131 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:35:24 WARN Rio Grande do Norte (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:36:01 INFO Completed estimates for: Rio Grande do Norte
+2020-12-26 21:26:39 INFO Initialising estimates for: Rio Grande do Sul
+2020-12-26 21:34:40 WARN Rio Grande do Sul (chain: 1): There were 62 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:34:40 WARN Rio Grande do Sul (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:35:32 INFO Completed estimates for: Rio Grande do Sul
+2020-12-26 21:28:59 INFO Initialising estimates for: Rondônia
+2020-12-26 21:39:51 WARN Rondônia (chain: 1): There were 42 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:39:51 WARN Rondônia (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:40:34 INFO Completed estimates for: Rondônia
+2020-12-26 21:31:56 INFO Initialising estimates for: Roraima
+2020-12-26 21:37:20 WARN Roraima (chain: 1): There were 84 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:37:20 WARN Roraima (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:38:18 INFO Completed estimates for: Roraima
+2020-12-26 21:33:39 INFO Initialising estimates for: Santa Catarina
+2020-12-26 21:43:20 WARN Santa Catarina (chain: 1): There were 54 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:43:20 WARN Santa Catarina (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:43:52 INFO Completed estimates for: Santa Catarina
+2020-12-26 21:33:41 INFO Initialising estimates for: São Paulo
+2020-12-26 21:39:18 WARN São Paulo (chain: 1): There were 63 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:39:18 WARN São Paulo (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:40:16 INFO Completed estimates for: São Paulo
+2020-12-26 21:35:39 INFO Initialising estimates for: Sergipe
+2020-12-26 21:43:48 WARN Sergipe (chain: 1): There were 37 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:43:48 WARN Sergipe (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:44:20 INFO Completed estimates for: Sergipe
+2020-12-26 21:36:08 INFO Initialising estimates for: Tocantins
+2020-12-26 21:41:42 WARN Tocantins (chain: 1): There were 35 divergent transitions after warmup. See
+http://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them. - 
+2020-12-26 21:41:42 WARN Tocantins (chain: 1): Examine the pairs() plot to diagnose sampling problems
+ - 
+2020-12-26 21:42:17 INFO Completed estimates for: Tocantins
+2020-12-26 21:44:21 INFO Completed regional estimates
+2020-12-26 21:44:21 INFO Regions with estimates: 27
+2020-12-26 21:44:21 INFO Regions with runtime errors: 0
+2020-12-26 21:44:21 INFO Saving timings information to : subnational/brazil/cases/national
+2020-12-26 21:44:21 INFO Saving summary to : subnational/brazil/cases/summary
+2020-12-26 21:44:21 INFO Extracting results from: subnational/brazil/cases/national
+2020-12-26 21:44:21 INFO Results dir subnational/brazil/cases/national Summary dir subnational/brazil/cases/summary Date latest
+2020-12-26 21:44:54 INFO processing outcome log
+2020-12-26 21:44:54 INFO run complete
+Already up to date.
+Loading required package: magrittr
+Loading required package: stringr
+Loading required package: purrr
+
+Attaching package: ‘purrr’
+
+The following object is masked from ‘package:magrittr’:
+
+    set_names
+
+Loading required package: tibble
+Loading required package: dplyr
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Loading required package: tidyr
+
+Attaching package: ‘tidyr’
+
+The following object is masked from ‘package:magrittr’:
+
+    extract
+
+Loading required package: countrycode
+Loading required package: rnaturalearth
+Loading required package: covidregionaldata
+Error: Can't rename columns that don't exist.
+✖ Column `cases` doesn't exist.
+Backtrace:
+     █
+  1. ├─`%>%`(...)
+  2. ├─base::unique(.)
+  3. ├─dplyr::select(., country, region = un_region)
+  4. ├─covidregionaldata::get_national_data(source = "ecdc")
+  5. │ ├─base::do.call(get_data_function, list())
+  6. │ └─(function () ...
+  7. │   └─`%>%`(...)
+  8. ├─dplyr::mutate(...)
+  9. ├─dplyr::filter(., country != "Cases_on_an_international_conveyance_Japan")
+ 10. ├─dplyr::arrange(., date)
+ 11. ├─dplyr::select(...)
+ 12. ├─dplyr::rename(...)
+ 13. └─dplyr:::rename.data.frame(...)
+ 14.   └─tidyselect::eval_rename(expr(c(...)), .data)
+ 15.     └─tidyselect:::rename_impl(...)
+ 16.       └─tidyselect:::eval_select_impl(...)
+ 17.         ├─tidyselect:::with_subscript_errors(...)
+ 18.         │ ├─base::tryCatch(...)
+ 19.         │ │ └─base:::tryCatchList(expr, classes, parentenv, handlers)
+ 20.         │ │   └─base:::tryCatchOne(expr, names, parentenv, handlers[[1L]])
+ 21.         │ │     └─base:::doTryCatch(return(expr), name, parentenv, handler)
+ 22.         │ └─tidyselect:::instrument_base_errors(expr)
+ 23.         │   └─base::withCallingHandlers(...)
+ 24.         └─tidyselect:::vars_select_eval(...)
+ 25.           └─tidyselect:::walk_data_tree(expr, data_mask, context_mask)
+ 26.             └─tidyselect:::eval_c(expr, data_mask, context_mask)
+ 27.               └─tidyselect:::reduce_sels(node, data_mask, context_mask, init = init)
+ 28.                 └─tidyselect:::walk_data_tree(new, data_mask, context_mask)
+ 29.                   └─tidyselect:::as_indices_sel_impl(...)
+ 30.                     └─tidyselect:::as_indices_impl(x, vars, strict = strict)
+ 31.                       └─tidyselect:::chr_as_locations(x, vars)
+ 32.                         └─vctrs::vec_as_location(x, n = length(vars), names = vars)
+ 33.                           └─(function () ...
+ 34.                             └─vctrs:::stop_subscript_oob(...)
+ 35.                               └─vctrs:::stop_subscript(...)
+Execution halted
+Loading required package: stringr
+Loading required package: magrittr
+Loading required package: future
+Loading required package: furrr
+Loading required package: purrr
+
+Attaching package: ‘purrr’
+
+The following object is masked from ‘package:magrittr’:
+
+    set_names
+
+Loading required package: data.table
+
+Attaching package: ‘data.table’
+
+The following object is masked from ‘package:purrr’:
+
+    transpose
+
+
+
+processing file: brazil.Rmd
+  |                                                                              |                                                                      |   0%  |                                                                              |.....                                                                 |   7%
+  ordinary text without R code
+
+  |                                                                              |..........                                                            |  14%
+label: load-custom-data
+  |                                                                              |...............                                                       |  21%
+  ordinary text without R code
+
+  |                                                                              |....................                                                  |  29%
+label: load-geodata (with options) 
+List of 1
+ $ include: logi FALSE
+
+  |                                                                              |.........................                                             |  36%
+  ordinary text without R code
+
+  |                                                                              |..............................                                        |  43%
+label: load-defaults (with options) 
+List of 1
+ $ include: logi FALSE
+
+
+Attaching package: 'EpiNow2'
+
+The following object is masked from 'package:purrr':
+
+    update_list
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:data.table':
+
+    between, first, last
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Linking to GEOS 3.6.2, GDAL 2.2.3, PROJ 4.9.3
+
+Attaching package: 'rmarkdown'
+
+The following object is masked from 'package:future':
+
+    run
+
+here() starts at /home/gpu/mandacaru-sub9/covid-br-epiforecasts
+  |                                                                              |...................................                                   |  50%
+   inline R code fragments
+
+  |                                                                              |........................................                              |  57%
+label: map (with options) 
+List of 4
+ $ layout   : chr "l-body-outset"
+ $ out.width: chr "200%"
+ $ message  : logi FALSE
+ $ warning  : logi FALSE
+
+  |                                                                              |.............................................                         |  64%
+   inline R code fragments
+
+  |                                                                              |..................................................                    |  71%
+label: unnamed-chunk-1 (with options) 
+List of 1
+ $ child: language here::here("utils", "national-template.Rmd")
+
+
+
+processing file: /home/gpu/mandacaru-sub9/covid-br-epiforecasts/utils/national-template.Rmd
+  |                                                                              |                                                                      |   0%  |                                                                              |..............                                                        |  20%
+  ordinary text without R code
+
+  |                                                                              |............................                                          |  40%
+label: unnamed-chunk-4 (with options) 
+List of 1
+ $ include: logi FALSE
+
+  |                                                                              |..........................................                            |  60%
+  ordinary text without R code
+
+  |                                                                              |........................................................              |  80%
+label: unnamed-chunk-5 (with options) 
+List of 1
+ $ child: language system.file("templates/_region-report.Rmd", package = "EpiNow2")
+
+
+
+processing file: /home/gpu/R/x86_64-pc-linux-gnu-library/4.0/EpiNow2/templates/_region-report.Rmd
+  |                                                                              |                                                                      |   0%  |                                                                              |........                                                              |  11%
+  ordinary text without R code
+
+  |                                                                              |................                                                      |  22%
+label: unnamed-chunk-6 (with options) 
+List of 1
+ $ include: logi FALSE
+
+  |                                                                              |.......................                                               |  33%
+   inline R code fragments
+
+  |                                                                              |...............................                                       |  44%
+label: unnamed-chunk-7
+
+Attaching package: 'kableExtra'
+
+The following object is masked from 'package:dplyr':
+
+    group_rows
+
+  |                                                                              |.......................................                               |  56%
+   inline R code fragments
+
+  |                                                                              |...............................................                       |  67%
+label: unnamed-chunk-8
+  |                                                                              |......................................................                |  78%
+   inline R code fragments
+
+  |                                                                              |..............................................................        |  89%
+label: unnamed-chunk-9 (with options) 
+List of 3
+ $ fig.height: num 9
+ $ fig.width : num 8
+ $ out.width : chr "90%"
+
+  |                                                                              |......................................................................| 100%
+   inline R code fragments
+
+
+  |                                                                              |......................................................................| 100%
+  ordinary text without R code
+
+
+  |                                                                              |.......................................................               |  79%
+  ordinary text without R code
+
+  |                                                                              |............................................................          |  86%
+label: unnamed-chunk-2
+  |                                                                              |.................................................................     |  93%
+  ordinary text without R code
+
+  |                                                                              |......................................................................| 100%
+label: unnamed-chunk-3 (with options) 
+List of 1
+ $ child: language system.file("templates/_regional-summary.Rmd", package = "EpiNow2")
+
+
+
+processing file: /home/gpu/R/x86_64-pc-linux-gnu-library/4.0/EpiNow2/templates/_regional-summary.Rmd
+  |                                                                              |                                                                      |   0%  |                                                                              |...                                                                   |   5%
+  ordinary text without R code
+
+  |                                                                              |.......                                                               |  10%
+label: unnamed-chunk-10 (with options) 
+List of 1
+ $ include: logi FALSE
+
+Loading required package: DT
+  |                                                                              |..........                                                            |  14%
+   inline R code fragments
+
+  |                                                                              |.............                                                         |  19%
+label: unnamed-chunk-11 (with options) 
+List of 3
+ $ fig.height: num 8
+ $ fig.width : num 12
+ $ out.width : chr "95%"
+
+  |                                                                              |.................                                                     |  24%
+   inline R code fragments
+
+  |                                                                              |....................                                                  |  29%
+label: unnamed-chunk-12 (with options) 
+List of 4
+ $ fig.height: num 6
+ $ fig.width : num 8
+ $ layout    : chr "l-body-outset"
+ $ out.width : chr "95%"
+
+  |                                                                              |.......................                                               |  33%
+   inline R code fragments
+
+  |                                                                              |...........................                                           |  38%
+label: unnamed-chunk-13 (with options) 
+List of 4
+ $ fig.height: num 6
+ $ fig.width : num 8
+ $ layout    : chr "l-body-outset"
+ $ out.width : chr "95%"
+
+  |                                                                              |..............................                                        |  43%
+   inline R code fragments
+
+  |                                                                              |.................................                                     |  48%
+label: unnamed-chunk-14 (with options) 
+List of 4
+ $ fig.height: num 6
+ $ fig.width : num 8
+ $ layout    : chr "l-body-outset"
+ $ out.width : chr "95%"
+
+  |                                                                              |.....................................                                 |  52%
+   inline R code fragments
+
+  |                                                                              |........................................                              |  57%
+label: unnamed-chunk-15
+  |                                                                              |...........................................                           |  62%
+  ordinary text without R code
+
+  |                                                                              |...............................................                       |  67%
+label: unnamed-chunk-16 (with options) 
+List of 2
+ $ child: language system.file("templates/_all-region-summary.Rmd", package = "EpiNow2")
+ $ eval : symbol all_regions
+
+
+
+processing file: /home/gpu/R/x86_64-pc-linux-gnu-library/4.0/EpiNow2/templates/_all-region-summary.Rmd
+  |                                                                              |                                                                      |   0%  |                                                                              |..........                                                            |  14%
+  ordinary text without R code
+
+  |                                                                              |....................                                                  |  29%
+label: unnamed-chunk-20 (with options) 
+List of 4
+ $ fig.height: num 12
+ $ fig.width : num 8
+ $ layout    : chr "l-body-outset"
+ $ out.width : chr "95%"
+
+  |                                                                              |..............................                                        |  43%
+   inline R code fragments
+
+  |                                                                              |........................................                              |  57%
+label: unnamed-chunk-21 (with options) 
+List of 4
+ $ fig.height: num 12
+ $ fig.width : num 8
+ $ layout    : chr "l-body-outset"
+ $ out.width : chr "90%"
+
+  |                                                                              |..................................................                    |  71%
+   inline R code fragments
+
+  |                                                                              |............................................................          |  86%
+label: unnamed-chunk-22 (with options) 
+List of 4
+ $ fig.height: num 12
+ $ fig.width : num 8
+ $ layout    : chr "l-body-outset"
+ $ out.width : chr "90%"
+
+  |                                                                              |......................................................................| 100%
+   inline R code fragments
+
+
+  |                                                                              |..................................................                    |  71%
+   inline R code fragments
+
+  |                                                                              |.....................................................                 |  76%
+label: unnamed-chunk-17 (with options) 
+List of 2
+ $ layout   : chr "l-body-outset"
+ $ out.width: chr "90%"
+
+  |                                                                              |.........................................................             |  81%
+  ordinary text without R code
+
+  |                                                                              |............................................................          |  86%
+label: unnamed-chunk-18
+  |                                                                              |...............................................................       |  90%
+  ordinary text without R code
+
+  |                                                                              |...................................................................   |  95%
+label: unnamed-chunk-19 (with options) 
+List of 2
+ $ child: language system.file("templates/_add-region-reports.Rmd", package = "EpiNow2")
+ $ eval : language !is.null(region_path)
+
+  |                                                                              |......................................................................| 100%
+  ordinary text without R code
+
+
+
+output file: brazil.knit.md
+
+/home/gpu/anaconda3/bin/pandoc +RTS -K512m -RTS brazil.utf8.md --to html5 --from markdown+autolink_bare_uris+tex_math_single_backslash --output brazil.html --lua-filter /home/gpu/R/x86_64-pc-linux-gnu-library/4.0/rmarkdown/rmarkdown/lua/pagebreak.lua --lua-filter /home/gpu/R/x86_64-pc-linux-gnu-library/4.0/rmarkdown/rmarkdown/lua/latex-div.lua --email-obfuscation none --self-contained --standalone --table-of-contents --toc-depth 2 --variable toc-float=1 --highlight-style /home/gpu/R/x86_64-pc-linux-gnu-library/4.0/distill/rmarkdown/templates/distill_article/resources/arrow.theme --template /home/gpu/R/x86_64-pc-linux-gnu-library/4.0/distill/rmarkdown/templates/distill_article/resources/default.html '--metadata=link-citations:true' --variable date=12-26-2020 --include-in-header /tmp/Rtmpa0bcU8/file4144b66527html --include-in-header /tmp/Rtmpa0bcU8/file4146c07fd67html --include-in-header /tmp/Rtmpa0bcU8/file4147bd43dc2html --include-in-header /tmp/Rtmpa0bcU8/file41421b99b29html --include-in-header /tmp/Rtmpa0bcU8/file414451c5a0ehtml --include-in-header /tmp/Rtmpa0bcU8/file414200e534bhtml --include-before-body /tmp/Rtmpa0bcU8/file4141aae1b10html --include-before-body /tmp/Rtmpa0bcU8/file4146c036538html --include-before-body /tmp/Rtmpa0bcU8/file4146c6fdb01html --include-after-body /tmp/Rtmpa0bcU8/file41458a816f1html --include-after-body /tmp/Rtmpa0bcU8/file4141b92a633html --include-after-body /tmp/Rtmpa0bcU8/file41465d0387chtml --include-in-header /tmp/Rtmpa0bcU8/rmarkdown-str414386a3459.html --mathjax --variable 'mathjax-url:https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML' --include-in-header /tmp/Rtmpa0bcU8/file414575d84a0html --filter /home/gpu/anaconda3/bin/pandoc-citeproc 
+
+Output created: /home/gpu/mandacaru-sub9/covid-br-epiforecasts/docs/posts/national/brazil/index.html
+Warning messages:
+1: In eval(ei, envir) :
+  XXXXX PATH /home/gpu/mandacaru-sub9/covid-br-epiforecasts/covid-rt-estimates/subnational/brazil/cases/summary/summary_table.csv
+2: In eval(ei, envir) :
+  YYYYY /home/gpu/mandacaru-sub9/covid-br-epiforecasts/covid-rt-estimates/
+3: In eval(expr, envir, enclos) :
+  XXXXXXXXXXXXXXXXXXXXXX  PATH:  /home/gpu/mandacaru-sub9/covid-br-epiforecasts/covid-rt-estimates/subnational/brazil/cases/summary
+$result
+$result[[1]]
+[1] "/home/gpu/mandacaru-sub9/covid-br-epiforecasts/docs/posts/national/brazil/index.html"
+
+
+$error
+$error[[1]]
+NULL
+
+
+[1] FALSE
+logical(0)
+
+Rendering: ./index.Rmd
+  |                                                                              |                                                                      |   0%  |                                                                              |.......................                                               |  33%
+  ordinary text without R code
+
+  |                                                                              |...............................................                       |  67%
+label: unnamed-chunk-1
+  |                                                                              |......................................................................| 100%
+  ordinary text without R code
+
+
+/home/gpu/anaconda3/bin/pandoc +RTS -K512m -RTS index.utf8.md --to html5 --from markdown+autolink_bare_uris+tex_math_single_backslash --output index.html --lua-filter /home/gpu/R/x86_64-pc-linux-gnu-library/4.0/rmarkdown/rmarkdown/lua/pagebreak.lua --lua-filter /home/gpu/R/x86_64-pc-linux-gnu-library/4.0/rmarkdown/rmarkdown/lua/latex-div.lua --email-obfuscation none --standalone --variable toc-float=1 --highlight-style /home/gpu/R/x86_64-pc-linux-gnu-library/4.0/distill/rmarkdown/templates/distill_article/resources/arrow.theme --template /home/gpu/R/x86_64-pc-linux-gnu-library/4.0/distill/rmarkdown/templates/distill_article/resources/default.html '--metadata=link-citations:true' --include-in-header /tmp/RtmptdnQIo/file7a4130c774dhtml --include-in-header /tmp/RtmptdnQIo/file7a41b398acahtml --include-in-header /tmp/RtmptdnQIo/file7a45d0eb83fhtml --include-in-header /tmp/RtmptdnQIo/file7a4640606f7html --include-in-header /tmp/RtmptdnQIo/file7a46fcdeff3html --include-before-body /tmp/RtmptdnQIo/file7a449bedb0bhtml --include-before-body /tmp/RtmptdnQIo/file7a442da37b9html --include-before-body /tmp/RtmptdnQIo/file7a419f0cachtml --include-after-body /tmp/RtmptdnQIo/file7a45cc2e0abhtml --include-after-body /tmp/RtmptdnQIo/file7a432c787a7html --include-after-body /tmp/RtmptdnQIo/file7a4311afd18html --include-in-header /tmp/RtmptdnQIo/rmarkdown-str7a45d66ede3.html --mathjax --variable 'mathjax-url:https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML' --include-in-header /tmp/RtmptdnQIo/file7a43f4cd744html --filter /home/gpu/anaconda3/bin/pandoc-citeproc 
+
+Output created: docs/index.html
+
+Processing posts:
+  _posts/national/brazil 
+
+Error: './docs/README.html' does not exist in current working directory ('/home/gpu/mandacaru-sub9/covid-br-epiforecasts').
+In addition: Warning message:
+In normalizePath(path, winslash = winslash, mustWork = mustWork) :
+  path[1]="./docs/README.html": No such file or directory
+Execution halted
+Loading required package: stringr
+Loading required package: magrittr
+Loading required package: purrr
+
+Attaching package: ‘purrr’
+
+The following object is masked from ‘package:magrittr’:
+
+    set_names
+
