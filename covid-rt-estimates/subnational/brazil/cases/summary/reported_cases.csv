@@ -1,31 +1,4 @@
 region,date,confirm
-Acre,2020-10-02,146
-Alagoas,2020-10-02,246
-Amapá,2020-10-02,144
-Amazonas,2020-10-02,959
-Bahia,2020-10-02,1354
-Ceará,2020-10-02,469
-Distrito Federal,2020-10-02,915
-Espirito Santo,2020-10-02,675
-Goiás,2020-10-02,2184
-Maranhão,2020-10-02,593
-Mato Grosso,2020-10-02,1084
-Mato Grosso do Sul,2020-10-02,648
-Minas Gerais,2020-10-02,3475
-Pará,2020-10-02,999
-Paraíba,2020-10-02,464
-Paraná,2020-10-02,1398
-Pernambuco,2020-10-02,865
-Piauí,2020-10-02,610
-Rio de Janeiro,2020-10-02,4160
-Rio Grande do Norte,2020-10-02,452
-Rio Grande do Sul,2020-10-02,3241
-Rondônia,2020-10-02,212
-Roraima,2020-10-02,285
-Santa Catarina,2020-10-02,1098
-São Paulo,2020-10-02,5608
-Sergipe,2020-10-02,144
-Tocantins,2020-10-02,390
 Acre,2020-10-03,107
 Alagoas,2020-10-03,178
 Amapá,2020-10-03,73
@@ -2080,7 +2053,7 @@ Sergipe,2020-12-17,558
 Tocantins,2020-12-17,386
 Acre,2020-12-18,175
 Alagoas,2020-12-18,312
-Amapá,2020-12-18,0
+Amapá,2020-12-18,203
 Amazonas,2020-12-18,1156
 Bahia,2020-12-18,3057
 Ceará,2020-12-18,970
@@ -2107,7 +2080,7 @@ Sergipe,2020-12-18,104
 Tocantins,2020-12-18,324
 Acre,2020-12-19,528
 Alagoas,2020-12-19,359
-Amapá,2020-12-19,560
+Amapá,2020-12-19,357
 Amazonas,2020-12-19,706
 Bahia,2020-12-19,3920
 Ceará,2020-12-19,645
@@ -2294,3 +2267,30 @@ Santa Catarina,2020-12-25,1481
 São Paulo,2020-12-25,3596
 Sergipe,2020-12-25,825
 Tocantins,2020-12-25,161
+Acre,2020-12-26,13
+Alagoas,2020-12-26,298
+Amapá,2020-12-26,72
+Amazonas,2020-12-26,201
+Bahia,2020-12-26,1349
+Ceará,2020-12-26,33
+Distrito Federal,2020-12-26,650
+Espirito Santo,2020-12-26,1448
+Goiás,2020-12-26,170
+Maranhão,2020-12-26,57
+Mato Grosso,2020-12-26,196
+Mato Grosso do Sul,2020-12-26,1097
+Minas Gerais,2020-12-26,2113
+Pará,2020-12-26,531
+Paraíba,2020-12-26,727
+Paraná,2020-12-26,1223
+Pernambuco,2020-12-26,387
+Piauí,2020-12-26,251
+Rio de Janeiro,2020-12-26,929
+Rio Grande do Norte,2020-12-26,0
+Rio Grande do Sul,2020-12-26,2147
+Rondônia,2020-12-26,206
+Roraima,2020-12-26,3
+Santa Catarina,2020-12-26,1561
+São Paulo,2020-12-26,1253
+Sergipe,2020-12-26,445
+Tocantins,2020-12-26,149
