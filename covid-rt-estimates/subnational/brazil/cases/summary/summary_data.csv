@@ -1,55 +1,55 @@
 region,estimate,median,mean,sd,lower_90,lower_50,lower_20,upper_20,upper_50,upper_90,metric,Expected change in daily cases
-São Paulo,8861 (3548 -- 16451),8861,9257,4022,3548,6783,8098,9636,11206,16451,New confirmed cases by infection date,Unsure
-Rio Grande do Sul,3838 (1088 -- 6849),3838,3891,1788,1088,2493,3302,4366,5155,6849,New confirmed cases by infection date,Unsure
-Rio de Janeiro,2522 (759 -- 4833),2522,2642,1407,759,1821,2273,2780,3252,4833,New confirmed cases by infection date,Unsure
-Paraná,2440 (414 -- 6861),2440,2885,2105,414,1391,2012,2945,3870,6861,New confirmed cases by infection date,Unsure
-Minas Gerais,2343 (907 -- 4639),2343,2501,1158,907,1669,2074,2619,3191,4639,New confirmed cases by infection date,Unsure
-Santa Catarina,1405 (549 -- 2775),1405,1492,716,549,991,1237,1569,1871,2775,New confirmed cases by infection date,Unsure
-Pernambuco,1229 (538 -- 2279),1229,1304,623,538,890,1088,1366,1612,2279,New confirmed cases by infection date,Unsure
-Espirito Santo,1093 (443 -- 2124),1093,1159,509,443,781,962,1224,1463,2124,New confirmed cases by infection date,Unsure
-Bahia,967 (316 -- 2316),967,1092,655,316,631,831,1100,1385,2316,New confirmed cases by infection date,Unsure
-Mato Grosso do Sul,899 (370 -- 1915),899,998,532,370,646,803,1019,1242,1915,New confirmed cases by infection date,Unsure
-Pará,831 (376 -- 1595),831,907,522,376,657,767,900,1039,1595,New confirmed cases by infection date,Unsure
-Rio Grande do Norte,745 (132 -- 4333),745,1420,3972,132,384,587,947,1402,4333,New confirmed cases by infection date,Unsure
-Paraíba,710 (260 -- 1287),710,728,331,260,497,630,786,911,1287,New confirmed cases by infection date,Unsure
-Amazonas,702 (423 -- 1132),702,732,228,423,595,662,747,832,1132,New confirmed cases by infection date,Unsure
-Mato Grosso,695 (287 -- 1168),695,711,277,287,528,635,756,862,1168,New confirmed cases by infection date,Unsure
-Sergipe,573 (154 -- 2202),573,815,1016,154,333,469,693,963,2202,New confirmed cases by infection date,Unsure
-Rondônia,504 (218 -- 788),504,502,179,218,374,454,546,619,788,New confirmed cases by infection date,Unsure
-Distrito Federal,493 (260 -- 890),493,525,204,260,390,454,544,625,890,New confirmed cases by infection date,Unsure
-Alagoas,362 (171 -- 664),362,385,169,171,273,329,400,467,664,New confirmed cases by infection date,Unsure
-Piauí,273 (128 -- 580),273,305,164,128,203,245,302,365,580,New confirmed cases by infection date,Unsure
-Tocantins,257 (119 -- 479),257,274,118,119,192,231,283,333,479,New confirmed cases by infection date,Unsure
-Amapá,208 (105 -- 383),208,222,91,105,159,188,228,268,383,New confirmed cases by infection date,Unsure
-Ceará,205 (13 -- 1093),205,340,519,13,83,148,278,433,1093,New confirmed cases by infection date,Unsure
-Acre,152 (53 -- 373),152,178,125,53,104,134,174,219,373,New confirmed cases by infection date,Unsure
-Goiás,147 (12 -- 1039),147,288,359,12,57,106,204,372,1039,New confirmed cases by infection date,Unsure
-Maranhão,99 (32 -- 206),99,108,55,32,66,86,115,143,206,New confirmed cases by infection date,Likely decreasing
-Roraima,80 (23 -- 174),80,88,48,23,50,69,93,117,174,New confirmed cases by infection date,Unsure
-Acre,1 (0.7 -- 1.2),1,0.9,0.2,0.7,0.9,0.9,1,1,1.2,Effective reproduction no.,Unsure
-Alagoas,1 (0.8 -- 1.2),1,1,0.2,0.8,0.9,1,1,1.1,1.2,Effective reproduction no.,Unsure
-Amazonas,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
-Mato Grosso,1 (0.7 -- 1.1),1,1,0.1,0.7,0.9,1,1,1.1,1.1,Effective reproduction no.,Unsure
-Paraíba,1 (0.6 -- 1.2),1,1,0.2,0.6,0.9,1,1,1.1,1.2,Effective reproduction no.,Unsure
-Pará,1 (0.8 -- 1.2),1,1,0.1,0.8,1,1,1,1,1.2,Effective reproduction no.,Unsure
-Pernambuco,1 (0.7 -- 1.2),1,1,0.1,0.7,0.9,0.9,1,1.1,1.2,Effective reproduction no.,Unsure
-Rio Grande do Norte,1 (0.4 -- 1.8),1,1,0.4,0.4,0.7,0.9,1,1.2,1.8,Effective reproduction no.,Unsure
-Rio Grande do Sul,1 (0.6 -- 1.1),1,0.9,0.1,0.6,0.9,0.9,1,1,1.1,Effective reproduction no.,Unsure
-Rio de Janeiro,1 (0.7 -- 1.2),1,1,0.1,0.7,0.9,1,1,1.1,1.2,Effective reproduction no.,Unsure
-Rondônia,1 (0.8 -- 1.1),1,1,0.1,0.8,0.9,1,1,1.1,1.1,Effective reproduction no.,Unsure
+São Paulo,8351 (2946 -- 15265),8351,8656,4001,2946,6013,7466,9187,10728,15265,New confirmed cases by infection date,Unsure
+Paraná,2588 (586 -- 7117),2588,3034,2072,586,1567,2172,3109,4008,7117,New confirmed cases by infection date,Unsure
+Rio Grande do Sul,2364 (540 -- 5740),2364,2700,1671,540,1370,1952,2857,3786,5740,New confirmed cases by infection date,Unsure
+Rio de Janeiro,2247 (624 -- 4283),2247,2306,1177,624,1505,1958,2502,2936,4283,New confirmed cases by infection date,Unsure
+Minas Gerais,1939 (730 -- 3857),1939,2069,992,730,1354,1699,2178,2632,3857,New confirmed cases by infection date,Unsure
+Espirito Santo,1905 (1086 -- 2875),1905,1925,592,1086,1447,1718,2085,2345,2875,New confirmed cases by infection date,Unsure
+Santa Catarina,1516 (687 -- 3045),1516,1653,783,687,1112,1358,1708,2038,3045,New confirmed cases by infection date,Unsure
+Pernambuco,1199 (531 -- 2218),1199,1271,562,531,878,1062,1327,1580,2218,New confirmed cases by infection date,Unsure
+Rio Grande do Norte,1109 (245 -- 5999),1109,1961,3272,245,615,898,1381,2135,5999,New confirmed cases by infection date,Unsure
+Mato Grosso do Sul,991 (411 -- 2079),991,1096,607,411,710,876,1110,1361,2079,New confirmed cases by infection date,Unsure
+Paraíba,868 (463 -- 1567),868,929,403,463,695,804,936,1065,1567,New confirmed cases by infection date,Unsure
+Sergipe,865 (255 -- 3230),865,1257,1713,255,529,714,1052,1433,3230,New confirmed cases by infection date,Unsure
+Pará,852 (402 -- 1798),852,950,524,402,680,785,934,1084,1798,New confirmed cases by infection date,Unsure
+Mato Grosso,748 (374 -- 1191),748,765,259,374,601,694,803,904,1191,New confirmed cases by infection date,Unsure
+Distrito Federal,739 (425 -- 1462),739,823,401,425,594,678,806,935,1462,New confirmed cases by infection date,Unsure
+Amazonas,707 (412 -- 1166),707,741,241,412,598,665,759,848,1166,New confirmed cases by infection date,Unsure
+Bahia,700 (224 -- 1761),700,813,500,224,464,601,821,1049,1761,New confirmed cases by infection date,Unsure
+Rondônia,636 (369 -- 972),636,651,205,369,527,597,677,746,972,New confirmed cases by infection date,Likely increasing
+Goiás,533 (78 -- 1619),533,658,534,78,271,415,663,921,1619,New confirmed cases by infection date,Unsure
+Ceará,473 (71 -- 1397),473,573,446,71,246,375,580,785,1397,New confirmed cases by infection date,Unsure
+Piauí,361 (183 -- 891),361,423,273,183,272,325,401,475,891,New confirmed cases by infection date,Unsure
+Alagoas,345 (167 -- 602),345,362,141,167,263,315,379,441,602,New confirmed cases by infection date,Unsure
+Tocantins,290 (144 -- 551),290,313,137,144,225,265,318,369,551,New confirmed cases by infection date,Unsure
+Amapá,277 (156 -- 522),277,303,142,156,221,254,301,349,522,New confirmed cases by infection date,Unsure
+Acre,152 (52 -- 365),152,176,112,52,105,133,174,217,365,New confirmed cases by infection date,Unsure
+Maranhão,98 (35 -- 201),98,106,53,35,67,86,111,136,201,New confirmed cases by infection date,Likely decreasing
+Roraima,61 (17 -- 143),61,68,40,17,38,51,72,90,143,New confirmed cases by infection date,Unsure
+Rio Grande do Norte,1.1 (0.6 -- 1.9),1.1,1.1,0.4,0.6,0.9,1,1.1,1.3,1.9,Effective reproduction no.,Unsure
+Rondônia,1.1 (0.9 -- 1.2),1.1,1,0.1,0.9,1,1,1.1,1.1,1.2,Effective reproduction no.,Likely increasing
+Acre,1 (0.7 -- 1.2),1,1,0.2,0.7,0.9,0.9,1,1,1.2,Effective reproduction no.,Unsure
+Alagoas,1 (0.7 -- 1.2),1,1,0.1,0.7,0.9,0.9,1,1.1,1.2,Effective reproduction no.,Unsure
+Amapá,1 (0.8 -- 1.2),1,1,0.1,0.8,0.9,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Amazonas,1 (0.8 -- 1.1),1,1,0.1,0.8,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Distrito Federal,1 (0.8 -- 1.4),1,1,0.2,0.8,0.9,1,1,1.1,1.4,Effective reproduction no.,Unsure
+Espirito Santo,1 (0.8 -- 1.1),1,1,0.1,0.8,0.9,1,1,1,1.1,Effective reproduction no.,Unsure
+Mato Grosso,1 (0.8 -- 1.1),1,1,0.1,0.8,0.9,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Paraíba,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Pará,1 (0.8 -- 1.2),1,1,0.2,0.8,1,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Pernambuco,1 (0.7 -- 1.2),1,1,0.1,0.7,0.9,0.9,1,1,1.2,Effective reproduction no.,Unsure
+Piauí,1 (0.8 -- 1.4),1,1,0.2,0.8,0.9,0.9,1,1.1,1.4,Effective reproduction no.,Unsure
+Rio de Janeiro,1 (0.7 -- 1.1),1,1,0.2,0.7,0.9,1,1,1,1.1,Effective reproduction no.,Unsure
+Sergipe,1 (0.6 -- 1.7),1,1.1,0.4,0.6,0.9,1,1.1,1.2,1.7,Effective reproduction no.,Unsure
 São Paulo,1 (0.7 -- 1.2),1,1,0.1,0.7,0.9,1,1,1.1,1.2,Effective reproduction no.,Unsure
-Tocantins,1 (0.7 -- 1.2),1,0.9,0.1,0.7,0.9,0.9,1,1,1.2,Effective reproduction no.,Unsure
-Amapá,0.9 (0.8 -- 1.1),0.9,0.9,0.1,0.8,0.9,0.9,1,1,1.1,Effective reproduction no.,Unsure
-Distrito Federal,0.9 (0.7 -- 1.1),0.9,0.9,0.1,0.7,0.8,0.9,0.9,1,1.1,Effective reproduction no.,Unsure
-Espirito Santo,0.9 (0.6 -- 1),0.9,0.8,0.1,0.6,0.8,0.8,0.9,0.9,1,Effective reproduction no.,Unsure
-Mato Grosso do Sul,0.9 (0.7 -- 1.2),0.9,0.9,0.2,0.7,0.8,0.9,1,1,1.2,Effective reproduction no.,Unsure
-Piauí,0.9 (0.7 -- 1.2),0.9,0.9,0.2,0.7,0.8,0.9,0.9,1,1.2,Effective reproduction no.,Unsure
-Roraima,0.9 (0.6 -- 1),0.9,0.8,0.1,0.6,0.8,0.8,0.9,0.9,1,Effective reproduction no.,Unsure
-Sergipe,0.9 (0.5 -- 1.6),0.9,1,0.3,0.5,0.7,0.8,1,1.1,1.6,Effective reproduction no.,Unsure
-Maranhão,0.8 (0.5 -- 1),0.8,0.8,0.2,0.5,0.7,0.8,0.9,0.9,1,Effective reproduction no.,Likely decreasing
-Minas Gerais,0.8 (0.6 -- 1),0.8,0.8,0.2,0.6,0.7,0.8,0.9,0.9,1,Effective reproduction no.,Unsure
-Paraná,0.8 (0.4 -- 1.1),0.8,0.8,0.2,0.4,0.6,0.8,0.9,1,1.1,Effective reproduction no.,Unsure
-Bahia,0.7 (0.4 -- 1),0.7,0.7,0.2,0.4,0.6,0.7,0.8,0.8,1,Effective reproduction no.,Unsure
-Santa Catarina,0.7 (0.5 -- 1),0.7,0.7,0.1,0.5,0.7,0.7,0.8,0.8,1,Effective reproduction no.,Unsure
-Ceará,0.6 (0.2 -- 1),0.6,0.6,0.3,0.2,0.4,0.6,0.7,0.8,1,Effective reproduction no.,Unsure
-Goiás,0.5 (0.2 -- 1),0.5,0.6,0.3,0.2,0.4,0.5,0.6,0.7,1,Effective reproduction no.,Unsure
+Tocantins,1 (0.8 -- 1.2),1,1,0.1,0.8,0.9,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Mato Grosso do Sul,0.9 (0.7 -- 1.2),0.9,0.9,0.2,0.7,0.9,0.9,1,1,1.2,Effective reproduction no.,Unsure
+Rio Grande do Sul,0.9 (0.5 -- 1.1),0.9,0.8,0.2,0.5,0.7,0.8,0.9,1,1.1,Effective reproduction no.,Unsure
+Ceará,0.8 (0.4 -- 1.1),0.8,0.8,0.2,0.4,0.7,0.8,0.9,0.9,1.1,Effective reproduction no.,Unsure
+Goiás,0.8 (0.4 -- 1.1),0.8,0.8,0.2,0.4,0.6,0.8,0.9,1,1.1,Effective reproduction no.,Unsure
+Maranhão,0.8 (0.6 -- 1),0.8,0.8,0.1,0.6,0.7,0.8,0.9,0.9,1,Effective reproduction no.,Likely decreasing
+Minas Gerais,0.8 (0.5 -- 1),0.8,0.8,0.2,0.5,0.7,0.7,0.8,0.9,1,Effective reproduction no.,Unsure
+Paraná,0.8 (0.4 -- 1.1),0.8,0.8,0.2,0.4,0.7,0.8,0.9,1,1.1,Effective reproduction no.,Unsure
+Roraima,0.8 (0.5 -- 1),0.8,0.8,0.2,0.5,0.7,0.8,0.8,0.9,1,Effective reproduction no.,Unsure
+Santa Catarina,0.8 (0.6 -- 1),0.8,0.8,0.1,0.6,0.7,0.8,0.8,0.9,1,Effective reproduction no.,Unsure
+Bahia,0.7 (0.4 -- 0.9),0.7,0.7,0.2,0.4,0.6,0.6,0.7,0.8,0.9,Effective reproduction no.,Unsure
